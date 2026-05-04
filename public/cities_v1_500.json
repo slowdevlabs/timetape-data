@@ -1,0 +1,4002 @@
+[
+  {
+    "displayName": "Seoul",
+    "cityName": "Seoul",
+    "countryName": "South Korea",
+    "timeZoneIdentifier": "Asia/Seoul",
+    "latitude": 37.5665,
+    "longitude": 126.978
+  },
+  {
+    "displayName": "Tokyo",
+    "cityName": "Tokyo",
+    "countryName": "Japan",
+    "timeZoneIdentifier": "Asia/Tokyo",
+    "latitude": 35.6762,
+    "longitude": 139.6503
+  },
+  {
+    "displayName": "Osaka",
+    "cityName": "Osaka",
+    "countryName": "Japan",
+    "timeZoneIdentifier": "Asia/Tokyo",
+    "latitude": 34.6937,
+    "longitude": 135.5023
+  },
+  {
+    "displayName": "Kyoto",
+    "cityName": "Kyoto",
+    "countryName": "Japan",
+    "timeZoneIdentifier": "Asia/Tokyo",
+    "latitude": 35.0116,
+    "longitude": 135.7681
+  },
+  {
+    "displayName": "Sapporo",
+    "cityName": "Sapporo",
+    "countryName": "Japan",
+    "timeZoneIdentifier": "Asia/Tokyo",
+    "latitude": 43.0618,
+    "longitude": 141.3545
+  },
+  {
+    "displayName": "Fukuoka",
+    "cityName": "Fukuoka",
+    "countryName": "Japan",
+    "timeZoneIdentifier": "Asia/Tokyo",
+    "latitude": 33.5902,
+    "longitude": 130.4017
+  },
+  {
+    "displayName": "Singapore",
+    "cityName": "Singapore",
+    "countryName": "Singapore",
+    "timeZoneIdentifier": "Asia/Singapore",
+    "latitude": 1.3521,
+    "longitude": 103.8198
+  },
+  {
+    "displayName": "Hong Kong",
+    "cityName": "Hong Kong",
+    "countryName": "Hong Kong",
+    "timeZoneIdentifier": "Asia/Hong_Kong",
+    "latitude": 22.3193,
+    "longitude": 114.1694
+  },
+  {
+    "displayName": "Beijing",
+    "cityName": "Beijing",
+    "countryName": "China",
+    "timeZoneIdentifier": "Asia/Shanghai",
+    "latitude": 39.9042,
+    "longitude": 116.4074
+  },
+  {
+    "displayName": "Shanghai",
+    "cityName": "Shanghai",
+    "countryName": "China",
+    "timeZoneIdentifier": "Asia/Shanghai",
+    "latitude": 31.2304,
+    "longitude": 121.4737
+  },
+  {
+    "displayName": "Shenzhen",
+    "cityName": "Shenzhen",
+    "countryName": "China",
+    "timeZoneIdentifier": "Asia/Shanghai",
+    "latitude": 22.5431,
+    "longitude": 114.0579
+  },
+  {
+    "displayName": "Guangzhou",
+    "cityName": "Guangzhou",
+    "countryName": "China",
+    "timeZoneIdentifier": "Asia/Shanghai",
+    "latitude": 23.1291,
+    "longitude": 113.2644
+  },
+  {
+    "displayName": "Chengdu",
+    "cityName": "Chengdu",
+    "countryName": "China",
+    "timeZoneIdentifier": "Asia/Shanghai",
+    "latitude": 30.5728,
+    "longitude": 104.0668
+  },
+  {
+    "displayName": "Bangkok",
+    "cityName": "Bangkok",
+    "countryName": "Thailand",
+    "timeZoneIdentifier": "Asia/Bangkok",
+    "latitude": 13.7563,
+    "longitude": 100.5018
+  },
+  {
+    "displayName": "Chiang Mai",
+    "cityName": "Chiang Mai",
+    "countryName": "Thailand",
+    "timeZoneIdentifier": "Asia/Bangkok",
+    "latitude": 18.7883,
+    "longitude": 98.9853
+  },
+  {
+    "displayName": "Ho Chi Minh City",
+    "cityName": "Ho Chi Minh City",
+    "countryName": "Vietnam",
+    "timeZoneIdentifier": "Asia/Ho_Chi_Minh",
+    "latitude": 10.8231,
+    "longitude": 106.6297
+  },
+  {
+    "displayName": "Hanoi",
+    "cityName": "Hanoi",
+    "countryName": "Vietnam",
+    "timeZoneIdentifier": "Asia/Ho_Chi_Minh",
+    "latitude": 21.0278,
+    "longitude": 105.8342
+  },
+  {
+    "displayName": "Jakarta",
+    "cityName": "Jakarta",
+    "countryName": "Indonesia",
+    "timeZoneIdentifier": "Asia/Jakarta",
+    "latitude": -6.2088,
+    "longitude": 106.8456
+  },
+  {
+    "displayName": "Bali",
+    "cityName": "Denpasar",
+    "countryName": "Indonesia",
+    "timeZoneIdentifier": "Asia/Makassar",
+    "latitude": -8.65,
+    "longitude": 115.2167
+  },
+  {
+    "displayName": "Manila",
+    "cityName": "Manila",
+    "countryName": "Philippines",
+    "timeZoneIdentifier": "Asia/Manila",
+    "latitude": 14.5995,
+    "longitude": 120.9842
+  },
+  {
+    "displayName": "Kuala Lumpur",
+    "cityName": "Kuala Lumpur",
+    "countryName": "Malaysia",
+    "timeZoneIdentifier": "Asia/Kuala_Lumpur",
+    "latitude": 3.139,
+    "longitude": 101.6869
+  },
+  {
+    "displayName": "Taipei",
+    "cityName": "Taipei",
+    "countryName": "Taiwan",
+    "timeZoneIdentifier": "Asia/Taipei",
+    "latitude": 25.033,
+    "longitude": 121.5654
+  },
+  {
+    "displayName": "Busan",
+    "cityName": "Busan",
+    "countryName": "South Korea",
+    "timeZoneIdentifier": "Asia/Seoul",
+    "latitude": 35.1796,
+    "longitude": 129.0756
+  },
+  {
+    "displayName": "Incheon",
+    "cityName": "Incheon",
+    "countryName": "South Korea",
+    "timeZoneIdentifier": "Asia/Seoul",
+    "latitude": 37.4563,
+    "longitude": 126.7052
+  },
+  {
+    "displayName": "Jeju",
+    "cityName": "Jeju",
+    "countryName": "South Korea",
+    "timeZoneIdentifier": "Asia/Seoul",
+    "latitude": 33.4996,
+    "longitude": 126.5312
+  },
+  {
+    "displayName": "Dubai",
+    "cityName": "Dubai",
+    "countryName": "United Arab Emirates",
+    "timeZoneIdentifier": "Asia/Dubai",
+    "latitude": 25.2048,
+    "longitude": 55.2708
+  },
+  {
+    "displayName": "Abu Dhabi",
+    "cityName": "Abu Dhabi",
+    "countryName": "United Arab Emirates",
+    "timeZoneIdentifier": "Asia/Dubai",
+    "latitude": 24.4539,
+    "longitude": 54.3773
+  },
+  {
+    "displayName": "Doha",
+    "cityName": "Doha",
+    "countryName": "Qatar",
+    "timeZoneIdentifier": "Asia/Qatar",
+    "latitude": 25.2854,
+    "longitude": 51.531
+  },
+  {
+    "displayName": "Riyadh",
+    "cityName": "Riyadh",
+    "countryName": "Saudi Arabia",
+    "timeZoneIdentifier": "Asia/Riyadh",
+    "latitude": 24.7136,
+    "longitude": 46.6753
+  },
+  {
+    "displayName": "Jeddah",
+    "cityName": "Jeddah",
+    "countryName": "Saudi Arabia",
+    "timeZoneIdentifier": "Asia/Riyadh",
+    "latitude": 21.4858,
+    "longitude": 39.1925
+  },
+  {
+    "displayName": "Kuwait City",
+    "cityName": "Kuwait City",
+    "countryName": "Kuwait",
+    "timeZoneIdentifier": "Asia/Kuwait",
+    "latitude": 29.3759,
+    "longitude": 47.9774
+  },
+  {
+    "displayName": "Muscat",
+    "cityName": "Muscat",
+    "countryName": "Oman",
+    "timeZoneIdentifier": "Asia/Muscat",
+    "latitude": 23.588,
+    "longitude": 58.3829
+  },
+  {
+    "displayName": "Tel Aviv",
+    "cityName": "Tel Aviv",
+    "countryName": "Israel",
+    "timeZoneIdentifier": "Asia/Jerusalem",
+    "latitude": 32.0853,
+    "longitude": 34.7818
+  },
+  {
+    "displayName": "Jerusalem",
+    "cityName": "Jerusalem",
+    "countryName": "Israel",
+    "timeZoneIdentifier": "Asia/Jerusalem",
+    "latitude": 31.7683,
+    "longitude": 35.2137
+  },
+  {
+    "displayName": "Mumbai",
+    "cityName": "Mumbai",
+    "countryName": "India",
+    "timeZoneIdentifier": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777
+  },
+  {
+    "displayName": "Delhi",
+    "cityName": "New Delhi",
+    "countryName": "India",
+    "timeZoneIdentifier": "Asia/Kolkata",
+    "latitude": 28.6139,
+    "longitude": 77.209
+  },
+  {
+    "displayName": "Bengaluru",
+    "cityName": "Bengaluru",
+    "countryName": "India",
+    "timeZoneIdentifier": "Asia/Kolkata",
+    "latitude": 12.9716,
+    "longitude": 77.5946
+  },
+  {
+    "displayName": "Chennai",
+    "cityName": "Chennai",
+    "countryName": "India",
+    "timeZoneIdentifier": "Asia/Kolkata",
+    "latitude": 13.0827,
+    "longitude": 80.2707
+  },
+  {
+    "displayName": "Kolkata",
+    "cityName": "Kolkata",
+    "countryName": "India",
+    "timeZoneIdentifier": "Asia/Kolkata",
+    "latitude": 22.5726,
+    "longitude": 88.3639
+  },
+  {
+    "displayName": "Hyderabad",
+    "cityName": "Hyderabad",
+    "countryName": "India",
+    "timeZoneIdentifier": "Asia/Kolkata",
+    "latitude": 17.385,
+    "longitude": 78.4867
+  },
+  {
+    "displayName": "Karachi",
+    "cityName": "Karachi",
+    "countryName": "Pakistan",
+    "timeZoneIdentifier": "Asia/Karachi",
+    "latitude": 24.8607,
+    "longitude": 67.0011
+  },
+  {
+    "displayName": "Lahore",
+    "cityName": "Lahore",
+    "countryName": "Pakistan",
+    "timeZoneIdentifier": "Asia/Karachi",
+    "latitude": 31.5204,
+    "longitude": 74.3587
+  },
+  {
+    "displayName": "Dhaka",
+    "cityName": "Dhaka",
+    "countryName": "Bangladesh",
+    "timeZoneIdentifier": "Asia/Dhaka",
+    "latitude": 23.8103,
+    "longitude": 90.4125
+  },
+  {
+    "displayName": "Kathmandu",
+    "cityName": "Kathmandu",
+    "countryName": "Nepal",
+    "timeZoneIdentifier": "Asia/Kathmandu",
+    "latitude": 27.7172,
+    "longitude": 85.324
+  },
+  {
+    "displayName": "Colombo",
+    "cityName": "Colombo",
+    "countryName": "Sri Lanka",
+    "timeZoneIdentifier": "Asia/Colombo",
+    "latitude": 6.9271,
+    "longitude": 79.8612
+  },
+  {
+    "displayName": "Istanbul",
+    "cityName": "Istanbul",
+    "countryName": "Turkey",
+    "timeZoneIdentifier": "Europe/Istanbul",
+    "latitude": 41.0082,
+    "longitude": 28.9784
+  },
+  {
+    "displayName": "Ankara",
+    "cityName": "Ankara",
+    "countryName": "Turkey",
+    "timeZoneIdentifier": "Europe/Istanbul",
+    "latitude": 39.9334,
+    "longitude": 32.8597
+  },
+  {
+    "displayName": "Athens",
+    "cityName": "Athens",
+    "countryName": "Greece",
+    "timeZoneIdentifier": "Europe/Athens",
+    "latitude": 37.9838,
+    "longitude": 23.7275
+  },
+  {
+    "displayName": "Nicosia",
+    "cityName": "Nicosia",
+    "countryName": "Cyprus",
+    "timeZoneIdentifier": "Asia/Nicosia",
+    "latitude": 35.1856,
+    "longitude": 33.3823
+  },
+  {
+    "displayName": "Moscow",
+    "cityName": "Moscow",
+    "countryName": "Russia",
+    "timeZoneIdentifier": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173
+  },
+  {
+    "displayName": "Saint Petersburg",
+    "cityName": "Saint Petersburg",
+    "countryName": "Russia",
+    "timeZoneIdentifier": "Europe/Moscow",
+    "latitude": 59.9311,
+    "longitude": 30.3609
+  },
+  {
+    "displayName": "Novosibirsk",
+    "cityName": "Novosibirsk",
+    "countryName": "Russia",
+    "timeZoneIdentifier": "Asia/Novosibirsk",
+    "latitude": 55.0084,
+    "longitude": 82.9357
+  },
+  {
+    "displayName": "Almaty",
+    "cityName": "Almaty",
+    "countryName": "Kazakhstan",
+    "timeZoneIdentifier": "Asia/Almaty",
+    "latitude": 43.2389,
+    "longitude": 76.8897
+  },
+  {
+    "displayName": "Tashkent",
+    "cityName": "Tashkent",
+    "countryName": "Uzbekistan",
+    "timeZoneIdentifier": "Asia/Tashkent",
+    "latitude": 41.2995,
+    "longitude": 69.2401
+  },
+  {
+    "displayName": "Baku",
+    "cityName": "Baku",
+    "countryName": "Azerbaijan",
+    "timeZoneIdentifier": "Asia/Baku",
+    "latitude": 40.4093,
+    "longitude": 49.8671
+  },
+  {
+    "displayName": "Tbilisi",
+    "cityName": "Tbilisi",
+    "countryName": "Georgia",
+    "timeZoneIdentifier": "Asia/Tbilisi",
+    "latitude": 41.7151,
+    "longitude": 44.8271
+  },
+  {
+    "displayName": "Yerevan",
+    "cityName": "Yerevan",
+    "countryName": "Armenia",
+    "timeZoneIdentifier": "Asia/Yerevan",
+    "latitude": 40.1792,
+    "longitude": 44.4991
+  },
+  {
+    "displayName": "Auckland",
+    "cityName": "Auckland",
+    "countryName": "New Zealand",
+    "timeZoneIdentifier": "Pacific/Auckland",
+    "latitude": -36.8509,
+    "longitude": 174.7645
+  },
+  {
+    "displayName": "Wellington",
+    "cityName": "Wellington",
+    "countryName": "New Zealand",
+    "timeZoneIdentifier": "Pacific/Auckland",
+    "latitude": -41.2866,
+    "longitude": 174.7756
+  },
+  {
+    "displayName": "Christchurch",
+    "cityName": "Christchurch",
+    "countryName": "New Zealand",
+    "timeZoneIdentifier": "Pacific/Auckland",
+    "latitude": -43.5321,
+    "longitude": 172.6362
+  },
+  {
+    "displayName": "Sydney",
+    "cityName": "Sydney",
+    "countryName": "Australia",
+    "timeZoneIdentifier": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093
+  },
+  {
+    "displayName": "Melbourne",
+    "cityName": "Melbourne",
+    "countryName": "Australia",
+    "timeZoneIdentifier": "Australia/Melbourne",
+    "latitude": -37.8136,
+    "longitude": 144.9631
+  },
+  {
+    "displayName": "Brisbane",
+    "cityName": "Brisbane",
+    "countryName": "Australia",
+    "timeZoneIdentifier": "Australia/Brisbane",
+    "latitude": -27.4698,
+    "longitude": 153.0251
+  },
+  {
+    "displayName": "Perth",
+    "cityName": "Perth",
+    "countryName": "Australia",
+    "timeZoneIdentifier": "Australia/Perth",
+    "latitude": -31.9505,
+    "longitude": 115.8605
+  },
+  {
+    "displayName": "Adelaide",
+    "cityName": "Adelaide",
+    "countryName": "Australia",
+    "timeZoneIdentifier": "Australia/Adelaide",
+    "latitude": -34.9285,
+    "longitude": 138.6007
+  },
+  {
+    "displayName": "Canberra",
+    "cityName": "Canberra",
+    "countryName": "Australia",
+    "timeZoneIdentifier": "Australia/Sydney",
+    "latitude": -35.2809,
+    "longitude": 149.13
+  },
+  {
+    "displayName": "Hobart",
+    "cityName": "Hobart",
+    "countryName": "Australia",
+    "timeZoneIdentifier": "Australia/Hobart",
+    "latitude": -42.8821,
+    "longitude": 147.3272
+  },
+  {
+    "displayName": "Darwin",
+    "cityName": "Darwin",
+    "countryName": "Australia",
+    "timeZoneIdentifier": "Australia/Darwin",
+    "latitude": -12.4634,
+    "longitude": 130.8456
+  },
+  {
+    "displayName": "Guam",
+    "cityName": "Hagatna",
+    "countryName": "Guam",
+    "timeZoneIdentifier": "Pacific/Guam",
+    "latitude": 13.4757,
+    "longitude": 144.7489
+  },
+  {
+    "displayName": "Honolulu",
+    "cityName": "Honolulu",
+    "countryName": "United States",
+    "timeZoneIdentifier": "Pacific/Honolulu",
+    "latitude": 21.3069,
+    "longitude": -157.8583
+  },
+  {
+    "displayName": "Anchorage",
+    "cityName": "Anchorage",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Anchorage",
+    "latitude": 61.2181,
+    "longitude": -149.9003
+  },
+  {
+    "displayName": "Vancouver",
+    "cityName": "Vancouver",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Vancouver",
+    "latitude": 49.2827,
+    "longitude": -123.1207
+  },
+  {
+    "displayName": "Seattle",
+    "cityName": "Seattle",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Los_Angeles",
+    "latitude": 47.6062,
+    "longitude": -122.3321
+  },
+  {
+    "displayName": "Portland",
+    "cityName": "Portland",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Los_Angeles",
+    "latitude": 45.5152,
+    "longitude": -122.6784
+  },
+  {
+    "displayName": "San Francisco",
+    "cityName": "San Francisco",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Los_Angeles",
+    "latitude": 37.7749,
+    "longitude": -122.4194
+  },
+  {
+    "displayName": "San Jose",
+    "cityName": "San Jose",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Los_Angeles",
+    "latitude": 37.3382,
+    "longitude": -121.8863
+  },
+  {
+    "displayName": "Los Angeles",
+    "cityName": "Los Angeles",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Los_Angeles",
+    "latitude": 34.0549,
+    "longitude": -118.2426
+  },
+  {
+    "displayName": "San Diego",
+    "cityName": "San Diego",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Los_Angeles",
+    "latitude": 32.7157,
+    "longitude": -117.1611
+  },
+  {
+    "displayName": "Las Vegas",
+    "cityName": "Las Vegas",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Los_Angeles",
+    "latitude": 36.1699,
+    "longitude": -115.1398
+  },
+  {
+    "displayName": "Phoenix",
+    "cityName": "Phoenix",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Phoenix",
+    "latitude": 33.4484,
+    "longitude": -112.074
+  },
+  {
+    "displayName": "Salt Lake City",
+    "cityName": "Salt Lake City",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Denver",
+    "latitude": 40.7608,
+    "longitude": -111.891
+  },
+  {
+    "displayName": "Denver",
+    "cityName": "Denver",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Denver",
+    "latitude": 39.7392,
+    "longitude": -104.9903
+  },
+  {
+    "displayName": "Calgary",
+    "cityName": "Calgary",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Edmonton",
+    "latitude": 51.0447,
+    "longitude": -114.0719
+  },
+  {
+    "displayName": "Edmonton",
+    "cityName": "Edmonton",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Edmonton",
+    "latitude": 53.5461,
+    "longitude": -113.4938
+  },
+  {
+    "displayName": "Winnipeg",
+    "cityName": "Winnipeg",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Winnipeg",
+    "latitude": 49.8951,
+    "longitude": -97.1384
+  },
+  {
+    "displayName": "Saskatoon",
+    "cityName": "Saskatoon",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Regina",
+    "latitude": 52.1332,
+    "longitude": -106.67
+  },
+  {
+    "displayName": "Regina",
+    "cityName": "Regina",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Regina",
+    "latitude": 50.4452,
+    "longitude": -104.6189
+  },
+  {
+    "displayName": "Dallas",
+    "cityName": "Dallas",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 32.7767,
+    "longitude": -96.797
+  },
+  {
+    "displayName": "Austin",
+    "cityName": "Austin",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 30.2672,
+    "longitude": -97.7431
+  },
+  {
+    "displayName": "Houston",
+    "cityName": "Houston",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 29.7604,
+    "longitude": -95.3698
+  },
+  {
+    "displayName": "San Antonio",
+    "cityName": "San Antonio",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 29.4241,
+    "longitude": -98.4936
+  },
+  {
+    "displayName": "Chicago",
+    "cityName": "Chicago",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 41.8781,
+    "longitude": -87.6298
+  },
+  {
+    "displayName": "Minneapolis",
+    "cityName": "Minneapolis",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 44.9778,
+    "longitude": -93.265
+  },
+  {
+    "displayName": "Nashville",
+    "cityName": "Nashville",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 36.1627,
+    "longitude": -86.7816
+  },
+  {
+    "displayName": "New Orleans",
+    "cityName": "New Orleans",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 29.9511,
+    "longitude": -90.0715
+  },
+  {
+    "displayName": "Kansas City",
+    "cityName": "Kansas City",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 39.0997,
+    "longitude": -94.5786
+  },
+  {
+    "displayName": "St. Louis",
+    "cityName": "St. Louis",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 38.627,
+    "longitude": -90.1994
+  },
+  {
+    "displayName": "Mexico City",
+    "cityName": "Mexico City",
+    "countryName": "Mexico",
+    "timeZoneIdentifier": "America/Mexico_City",
+    "latitude": 19.4326,
+    "longitude": -99.1332
+  },
+  {
+    "displayName": "Monterrey",
+    "cityName": "Monterrey",
+    "countryName": "Mexico",
+    "timeZoneIdentifier": "America/Monterrey",
+    "latitude": 25.6866,
+    "longitude": -100.3161
+  },
+  {
+    "displayName": "Guadalajara",
+    "cityName": "Guadalajara",
+    "countryName": "Mexico",
+    "timeZoneIdentifier": "America/Mexico_City",
+    "latitude": 20.6597,
+    "longitude": -103.3496
+  },
+  {
+    "displayName": "Toronto",
+    "cityName": "Toronto",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Toronto",
+    "latitude": 43.6532,
+    "longitude": -79.3832
+  },
+  {
+    "displayName": "Ottawa",
+    "cityName": "Ottawa",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Toronto",
+    "latitude": 45.4215,
+    "longitude": -75.6972
+  },
+  {
+    "displayName": "Montreal",
+    "cityName": "Montreal",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Toronto",
+    "latitude": 45.5017,
+    "longitude": -73.5673
+  },
+  {
+    "displayName": "Quebec City",
+    "cityName": "Quebec City",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Toronto",
+    "latitude": 46.8139,
+    "longitude": -71.208
+  },
+  {
+    "displayName": "Halifax",
+    "cityName": "Halifax",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Halifax",
+    "latitude": 44.6488,
+    "longitude": -63.5752
+  },
+  {
+    "displayName": "St. John's",
+    "cityName": "St. John's",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/St_Johns",
+    "latitude": 47.5615,
+    "longitude": -52.7126
+  },
+  {
+    "displayName": "Detroit",
+    "cityName": "Detroit",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Detroit",
+    "latitude": 42.3314,
+    "longitude": -83.0458
+  },
+  {
+    "displayName": "Atlanta",
+    "cityName": "Atlanta",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 33.749,
+    "longitude": -84.388
+  },
+  {
+    "displayName": "Miami",
+    "cityName": "Miami",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 25.7617,
+    "longitude": -80.1918
+  },
+  {
+    "displayName": "Orlando",
+    "cityName": "Orlando",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 28.5383,
+    "longitude": -81.3792
+  },
+  {
+    "displayName": "Charlotte",
+    "cityName": "Charlotte",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 35.2271,
+    "longitude": -80.8431
+  },
+  {
+    "displayName": "Washington, D.C.",
+    "cityName": "Washington",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 38.9072,
+    "longitude": -77.0369
+  },
+  {
+    "displayName": "Philadelphia",
+    "cityName": "Philadelphia",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 39.9526,
+    "longitude": -75.1652
+  },
+  {
+    "displayName": "Boston",
+    "cityName": "Boston",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 42.3601,
+    "longitude": -71.0589
+  },
+  {
+    "displayName": "New York",
+    "cityName": "New York",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006
+  },
+  {
+    "displayName": "Brooklyn",
+    "cityName": "Brooklyn",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 40.6782,
+    "longitude": -73.9442
+  },
+  {
+    "displayName": "Pittsburgh",
+    "cityName": "Pittsburgh",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 40.4406,
+    "longitude": -79.9959
+  },
+  {
+    "displayName": "Cleveland",
+    "cityName": "Cleveland",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 41.4993,
+    "longitude": -81.6944
+  },
+  {
+    "displayName": "Columbus",
+    "cityName": "Columbus",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 39.9612,
+    "longitude": -82.9988
+  },
+  {
+    "displayName": "Indianapolis",
+    "cityName": "Indianapolis",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Indiana/Indianapolis",
+    "latitude": 39.7684,
+    "longitude": -86.1581
+  },
+  {
+    "displayName": "Nassau",
+    "cityName": "Nassau",
+    "countryName": "Bahamas",
+    "timeZoneIdentifier": "America/Nassau",
+    "latitude": 25.0443,
+    "longitude": -77.3504
+  },
+  {
+    "displayName": "Havana",
+    "cityName": "Havana",
+    "countryName": "Cuba",
+    "timeZoneIdentifier": "America/Havana",
+    "latitude": 23.1136,
+    "longitude": -82.3666
+  },
+  {
+    "displayName": "San Juan",
+    "cityName": "San Juan",
+    "countryName": "Puerto Rico",
+    "timeZoneIdentifier": "America/Puerto_Rico",
+    "latitude": 18.4655,
+    "longitude": -66.1057
+  },
+  {
+    "displayName": "Santo Domingo",
+    "cityName": "Santo Domingo",
+    "countryName": "Dominican Republic",
+    "timeZoneIdentifier": "America/Santo_Domingo",
+    "latitude": 18.4861,
+    "longitude": -69.9312
+  },
+  {
+    "displayName": "Panama City",
+    "cityName": "Panama City",
+    "countryName": "Panama",
+    "timeZoneIdentifier": "America/Panama",
+    "latitude": 8.9824,
+    "longitude": -79.5199
+  },
+  {
+    "displayName": "Bogotá",
+    "cityName": "Bogota",
+    "countryName": "Colombia",
+    "timeZoneIdentifier": "America/Bogota",
+    "latitude": 4.711,
+    "longitude": -74.0721
+  },
+  {
+    "displayName": "Medellín",
+    "cityName": "Medellin",
+    "countryName": "Colombia",
+    "timeZoneIdentifier": "America/Bogota",
+    "latitude": 6.2442,
+    "longitude": -75.5812
+  },
+  {
+    "displayName": "Lima",
+    "cityName": "Lima",
+    "countryName": "Peru",
+    "timeZoneIdentifier": "America/Lima",
+    "latitude": -12.0464,
+    "longitude": -77.0428
+  },
+  {
+    "displayName": "Quito",
+    "cityName": "Quito",
+    "countryName": "Ecuador",
+    "timeZoneIdentifier": "America/Guayaquil",
+    "latitude": -0.1807,
+    "longitude": -78.4678
+  },
+  {
+    "displayName": "Guayaquil",
+    "cityName": "Guayaquil",
+    "countryName": "Ecuador",
+    "timeZoneIdentifier": "America/Guayaquil",
+    "latitude": -2.1709,
+    "longitude": -79.9224
+  },
+  {
+    "displayName": "La Paz",
+    "cityName": "La Paz",
+    "countryName": "Bolivia",
+    "timeZoneIdentifier": "America/La_Paz",
+    "latitude": -16.4897,
+    "longitude": -68.1193
+  },
+  {
+    "displayName": "Santiago",
+    "cityName": "Santiago",
+    "countryName": "Chile",
+    "timeZoneIdentifier": "America/Santiago",
+    "latitude": -33.4489,
+    "longitude": -70.6693
+  },
+  {
+    "displayName": "Valparaiso",
+    "cityName": "Valparaiso",
+    "countryName": "Chile",
+    "timeZoneIdentifier": "America/Santiago",
+    "latitude": -33.0472,
+    "longitude": -71.6127
+  },
+  {
+    "displayName": "Buenos Aires",
+    "cityName": "Buenos Aires",
+    "countryName": "Argentina",
+    "timeZoneIdentifier": "America/Argentina/Buenos_Aires",
+    "latitude": -34.6037,
+    "longitude": -58.3816
+  },
+  {
+    "displayName": "Córdoba",
+    "cityName": "Cordoba",
+    "countryName": "Argentina",
+    "timeZoneIdentifier": "America/Argentina/Cordoba",
+    "latitude": -31.4201,
+    "longitude": -64.1888
+  },
+  {
+    "displayName": "Mendoza",
+    "cityName": "Mendoza",
+    "countryName": "Argentina",
+    "timeZoneIdentifier": "America/Argentina/Mendoza",
+    "latitude": -32.8895,
+    "longitude": -68.8458
+  },
+  {
+    "displayName": "São Paulo",
+    "cityName": "Sao Paulo",
+    "countryName": "Brazil",
+    "timeZoneIdentifier": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333
+  },
+  {
+    "displayName": "Rio de Janeiro",
+    "cityName": "Rio de Janeiro",
+    "countryName": "Brazil",
+    "timeZoneIdentifier": "America/Sao_Paulo",
+    "latitude": -22.9068,
+    "longitude": -43.1729
+  },
+  {
+    "displayName": "Brasília",
+    "cityName": "Brasilia",
+    "countryName": "Brazil",
+    "timeZoneIdentifier": "America/Sao_Paulo",
+    "latitude": -15.7939,
+    "longitude": -47.8828
+  },
+  {
+    "displayName": "Salvador",
+    "cityName": "Salvador",
+    "countryName": "Brazil",
+    "timeZoneIdentifier": "America/Bahia",
+    "latitude": -12.9777,
+    "longitude": -38.5016
+  },
+  {
+    "displayName": "Recife",
+    "cityName": "Recife",
+    "countryName": "Brazil",
+    "timeZoneIdentifier": "America/Recife",
+    "latitude": -8.0476,
+    "longitude": -34.877
+  },
+  {
+    "displayName": "Fortaleza",
+    "cityName": "Fortaleza",
+    "countryName": "Brazil",
+    "timeZoneIdentifier": "America/Fortaleza",
+    "latitude": -3.7319,
+    "longitude": -38.5267
+  },
+  {
+    "displayName": "Montevideo",
+    "cityName": "Montevideo",
+    "countryName": "Uruguay",
+    "timeZoneIdentifier": "America/Montevideo",
+    "latitude": -34.9011,
+    "longitude": -56.1645
+  },
+  {
+    "displayName": "Asunción",
+    "cityName": "Asuncion",
+    "countryName": "Paraguay",
+    "timeZoneIdentifier": "America/Asuncion",
+    "latitude": -25.2637,
+    "longitude": -57.5759
+  },
+  {
+    "displayName": "Cape Town",
+    "cityName": "Cape Town",
+    "countryName": "South Africa",
+    "timeZoneIdentifier": "Africa/Johannesburg",
+    "latitude": -33.9249,
+    "longitude": 18.4241
+  },
+  {
+    "displayName": "Johannesburg",
+    "cityName": "Johannesburg",
+    "countryName": "South Africa",
+    "timeZoneIdentifier": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473
+  },
+  {
+    "displayName": "Durban",
+    "cityName": "Durban",
+    "countryName": "South Africa",
+    "timeZoneIdentifier": "Africa/Johannesburg",
+    "latitude": -29.8587,
+    "longitude": 31.0218
+  },
+  {
+    "displayName": "Nairobi",
+    "cityName": "Nairobi",
+    "countryName": "Kenya",
+    "timeZoneIdentifier": "Africa/Nairobi",
+    "latitude": -1.2921,
+    "longitude": 36.8219
+  },
+  {
+    "displayName": "Mombasa",
+    "cityName": "Mombasa",
+    "countryName": "Kenya",
+    "timeZoneIdentifier": "Africa/Nairobi",
+    "latitude": -4.0435,
+    "longitude": 39.6682
+  },
+  {
+    "displayName": "Addis Ababa",
+    "cityName": "Addis Ababa",
+    "countryName": "Ethiopia",
+    "timeZoneIdentifier": "Africa/Addis_Ababa",
+    "latitude": 8.9806,
+    "longitude": 38.7578
+  },
+  {
+    "displayName": "Dar es Salaam",
+    "cityName": "Dar es Salaam",
+    "countryName": "Tanzania",
+    "timeZoneIdentifier": "Africa/Dar_es_Salaam",
+    "latitude": -6.7924,
+    "longitude": 39.2083
+  },
+  {
+    "displayName": "Kampala",
+    "cityName": "Kampala",
+    "countryName": "Uganda",
+    "timeZoneIdentifier": "Africa/Kampala",
+    "latitude": 0.3476,
+    "longitude": 32.5825
+  },
+  {
+    "displayName": "Kigali",
+    "cityName": "Kigali",
+    "countryName": "Rwanda",
+    "timeZoneIdentifier": "Africa/Kigali",
+    "latitude": -1.9441,
+    "longitude": 30.0619
+  },
+  {
+    "displayName": "Lagos",
+    "cityName": "Lagos",
+    "countryName": "Nigeria",
+    "timeZoneIdentifier": "Africa/Lagos",
+    "latitude": 6.5244,
+    "longitude": 3.3792
+  },
+  {
+    "displayName": "Abuja",
+    "cityName": "Abuja",
+    "countryName": "Nigeria",
+    "timeZoneIdentifier": "Africa/Lagos",
+    "latitude": 9.0765,
+    "longitude": 7.3986
+  },
+  {
+    "displayName": "Accra",
+    "cityName": "Accra",
+    "countryName": "Ghana",
+    "timeZoneIdentifier": "Africa/Accra",
+    "latitude": 5.6037,
+    "longitude": -0.187
+  },
+  {
+    "displayName": "Casablanca",
+    "cityName": "Casablanca",
+    "countryName": "Morocco",
+    "timeZoneIdentifier": "Africa/Casablanca",
+    "latitude": 33.5731,
+    "longitude": -7.5898
+  },
+  {
+    "displayName": "Marrakesh",
+    "cityName": "Marrakesh",
+    "countryName": "Morocco",
+    "timeZoneIdentifier": "Africa/Casablanca",
+    "latitude": 31.6295,
+    "longitude": -7.9811
+  },
+  {
+    "displayName": "Cairo",
+    "cityName": "Cairo",
+    "countryName": "Egypt",
+    "timeZoneIdentifier": "Africa/Cairo",
+    "latitude": 30.0444,
+    "longitude": 31.2357
+  },
+  {
+    "displayName": "Alexandria",
+    "cityName": "Alexandria",
+    "countryName": "Egypt",
+    "timeZoneIdentifier": "Africa/Cairo",
+    "latitude": 31.2001,
+    "longitude": 29.9187
+  },
+  {
+    "displayName": "Tunis",
+    "cityName": "Tunis",
+    "countryName": "Tunisia",
+    "timeZoneIdentifier": "Africa/Tunis",
+    "latitude": 36.8065,
+    "longitude": 10.1815
+  },
+  {
+    "displayName": "Algiers",
+    "cityName": "Algiers",
+    "countryName": "Algeria",
+    "timeZoneIdentifier": "Africa/Algiers",
+    "latitude": 36.7538,
+    "longitude": 3.0588
+  },
+  {
+    "displayName": "Dakar",
+    "cityName": "Dakar",
+    "countryName": "Senegal",
+    "timeZoneIdentifier": "Africa/Dakar",
+    "latitude": 14.7167,
+    "longitude": -17.4677
+  },
+  {
+    "displayName": "Reykjavík",
+    "cityName": "Reykjavik",
+    "countryName": "Iceland",
+    "timeZoneIdentifier": "Atlantic/Reykjavik",
+    "latitude": 64.1466,
+    "longitude": -21.9426
+  },
+  {
+    "displayName": "Dublin",
+    "cityName": "Dublin",
+    "countryName": "Ireland",
+    "timeZoneIdentifier": "Europe/Dublin",
+    "latitude": 53.3498,
+    "longitude": -6.2603
+  },
+  {
+    "displayName": "Belfast",
+    "cityName": "Belfast",
+    "countryName": "United Kingdom",
+    "timeZoneIdentifier": "Europe/London",
+    "latitude": 54.5973,
+    "longitude": -5.9301
+  },
+  {
+    "displayName": "London",
+    "cityName": "London",
+    "countryName": "United Kingdom",
+    "timeZoneIdentifier": "Europe/London",
+    "latitude": 51.5072,
+    "longitude": -0.1276
+  },
+  {
+    "displayName": "Manchester",
+    "cityName": "Manchester",
+    "countryName": "United Kingdom",
+    "timeZoneIdentifier": "Europe/London",
+    "latitude": 53.4808,
+    "longitude": -2.2426
+  },
+  {
+    "displayName": "Edinburgh",
+    "cityName": "Edinburgh",
+    "countryName": "United Kingdom",
+    "timeZoneIdentifier": "Europe/London",
+    "latitude": 55.9533,
+    "longitude": -3.1883
+  },
+  {
+    "displayName": "Paris",
+    "cityName": "Paris",
+    "countryName": "France",
+    "timeZoneIdentifier": "Europe/Paris",
+    "latitude": 48.8566,
+    "longitude": 2.3522
+  },
+  {
+    "displayName": "Lyon",
+    "cityName": "Lyon",
+    "countryName": "France",
+    "timeZoneIdentifier": "Europe/Paris",
+    "latitude": 45.764,
+    "longitude": 4.8357
+  },
+  {
+    "displayName": "Marseille",
+    "cityName": "Marseille",
+    "countryName": "France",
+    "timeZoneIdentifier": "Europe/Paris",
+    "latitude": 43.2965,
+    "longitude": 5.3698
+  },
+  {
+    "displayName": "Paris, Texas",
+    "cityName": "Paris",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 33.6609,
+    "longitude": -95.5555
+  },
+  {
+    "displayName": "Brussels",
+    "cityName": "Brussels",
+    "countryName": "Belgium",
+    "timeZoneIdentifier": "Europe/Brussels",
+    "latitude": 50.8503,
+    "longitude": 4.3517
+  },
+  {
+    "displayName": "Amsterdam",
+    "cityName": "Amsterdam",
+    "countryName": "Netherlands",
+    "timeZoneIdentifier": "Europe/Amsterdam",
+    "latitude": 52.3676,
+    "longitude": 4.9041
+  },
+  {
+    "displayName": "Rotterdam",
+    "cityName": "Rotterdam",
+    "countryName": "Netherlands",
+    "timeZoneIdentifier": "Europe/Amsterdam",
+    "latitude": 51.9244,
+    "longitude": 4.4777
+  },
+  {
+    "displayName": "Luxembourg",
+    "cityName": "Luxembourg City",
+    "countryName": "Luxembourg",
+    "timeZoneIdentifier": "Europe/Luxembourg",
+    "latitude": 49.6116,
+    "longitude": 6.1319
+  },
+  {
+    "displayName": "Berlin",
+    "cityName": "Berlin",
+    "countryName": "Germany",
+    "timeZoneIdentifier": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405
+  },
+  {
+    "displayName": "Hamburg",
+    "cityName": "Hamburg",
+    "countryName": "Germany",
+    "timeZoneIdentifier": "Europe/Berlin",
+    "latitude": 53.5511,
+    "longitude": 9.9937
+  },
+  {
+    "displayName": "Munich",
+    "cityName": "Munich",
+    "countryName": "Germany",
+    "timeZoneIdentifier": "Europe/Berlin",
+    "latitude": 48.1351,
+    "longitude": 11.582
+  },
+  {
+    "displayName": "Frankfurt",
+    "cityName": "Frankfurt",
+    "countryName": "Germany",
+    "timeZoneIdentifier": "Europe/Berlin",
+    "latitude": 50.1109,
+    "longitude": 8.6821
+  },
+  {
+    "displayName": "Zurich",
+    "cityName": "Zurich",
+    "countryName": "Switzerland",
+    "timeZoneIdentifier": "Europe/Zurich",
+    "latitude": 47.3769,
+    "longitude": 8.5417
+  },
+  {
+    "displayName": "Geneva",
+    "cityName": "Geneva",
+    "countryName": "Switzerland",
+    "timeZoneIdentifier": "Europe/Zurich",
+    "latitude": 46.2044,
+    "longitude": 6.1432
+  },
+  {
+    "displayName": "Vienna",
+    "cityName": "Vienna",
+    "countryName": "Austria",
+    "timeZoneIdentifier": "Europe/Vienna",
+    "latitude": 48.2082,
+    "longitude": 16.3738
+  },
+  {
+    "displayName": "Prague",
+    "cityName": "Prague",
+    "countryName": "Czech Republic",
+    "timeZoneIdentifier": "Europe/Prague",
+    "latitude": 50.0755,
+    "longitude": 14.4378
+  },
+  {
+    "displayName": "Warsaw",
+    "cityName": "Warsaw",
+    "countryName": "Poland",
+    "timeZoneIdentifier": "Europe/Warsaw",
+    "latitude": 52.2297,
+    "longitude": 21.0122
+  },
+  {
+    "displayName": "Kraków",
+    "cityName": "Krakow",
+    "countryName": "Poland",
+    "timeZoneIdentifier": "Europe/Warsaw",
+    "latitude": 50.0647,
+    "longitude": 19.945
+  },
+  {
+    "displayName": "Budapest",
+    "cityName": "Budapest",
+    "countryName": "Hungary",
+    "timeZoneIdentifier": "Europe/Budapest",
+    "latitude": 47.4979,
+    "longitude": 19.0402
+  },
+  {
+    "displayName": "Copenhagen",
+    "cityName": "Copenhagen",
+    "countryName": "Denmark",
+    "timeZoneIdentifier": "Europe/Copenhagen",
+    "latitude": 55.6761,
+    "longitude": 12.5683
+  },
+  {
+    "displayName": "Stockholm",
+    "cityName": "Stockholm",
+    "countryName": "Sweden",
+    "timeZoneIdentifier": "Europe/Stockholm",
+    "latitude": 59.3293,
+    "longitude": 18.0686
+  },
+  {
+    "displayName": "Oslo",
+    "cityName": "Oslo",
+    "countryName": "Norway",
+    "timeZoneIdentifier": "Europe/Oslo",
+    "latitude": 59.9139,
+    "longitude": 10.7522
+  },
+  {
+    "displayName": "Helsinki",
+    "cityName": "Helsinki",
+    "countryName": "Finland",
+    "timeZoneIdentifier": "Europe/Helsinki",
+    "latitude": 60.1699,
+    "longitude": 24.9384
+  },
+  {
+    "displayName": "Tallinn",
+    "cityName": "Tallinn",
+    "countryName": "Estonia",
+    "timeZoneIdentifier": "Europe/Tallinn",
+    "latitude": 59.437,
+    "longitude": 24.7536
+  },
+  {
+    "displayName": "Riga",
+    "cityName": "Riga",
+    "countryName": "Latvia",
+    "timeZoneIdentifier": "Europe/Riga",
+    "latitude": 56.9496,
+    "longitude": 24.1052
+  },
+  {
+    "displayName": "Vilnius",
+    "cityName": "Vilnius",
+    "countryName": "Lithuania",
+    "timeZoneIdentifier": "Europe/Vilnius",
+    "latitude": 54.6872,
+    "longitude": 25.2797
+  },
+  {
+    "displayName": "Lisbon",
+    "cityName": "Lisbon",
+    "countryName": "Portugal",
+    "timeZoneIdentifier": "Europe/Lisbon",
+    "latitude": 38.7223,
+    "longitude": -9.1393
+  },
+  {
+    "displayName": "Porto",
+    "cityName": "Porto",
+    "countryName": "Portugal",
+    "timeZoneIdentifier": "Europe/Lisbon",
+    "latitude": 41.1579,
+    "longitude": -8.6291
+  },
+  {
+    "displayName": "Madrid",
+    "cityName": "Madrid",
+    "countryName": "Spain",
+    "timeZoneIdentifier": "Europe/Madrid",
+    "latitude": 40.4168,
+    "longitude": -3.7038
+  },
+  {
+    "displayName": "Barcelona",
+    "cityName": "Barcelona",
+    "countryName": "Spain",
+    "timeZoneIdentifier": "Europe/Madrid",
+    "latitude": 41.3874,
+    "longitude": 2.1686
+  },
+  {
+    "displayName": "Valencia",
+    "cityName": "Valencia",
+    "countryName": "Spain",
+    "timeZoneIdentifier": "Europe/Madrid",
+    "latitude": 39.4699,
+    "longitude": -0.3763
+  },
+  {
+    "displayName": "Rome",
+    "cityName": "Rome",
+    "countryName": "Italy",
+    "timeZoneIdentifier": "Europe/Rome",
+    "latitude": 41.9028,
+    "longitude": 12.4964
+  },
+  {
+    "displayName": "Milan",
+    "cityName": "Milan",
+    "countryName": "Italy",
+    "timeZoneIdentifier": "Europe/Rome",
+    "latitude": 45.4642,
+    "longitude": 9.19
+  },
+  {
+    "displayName": "Naples",
+    "cityName": "Naples",
+    "countryName": "Italy",
+    "timeZoneIdentifier": "Europe/Rome",
+    "latitude": 40.8518,
+    "longitude": 14.2681
+  },
+  {
+    "displayName": "Venice",
+    "cityName": "Venice",
+    "countryName": "Italy",
+    "timeZoneIdentifier": "Europe/Rome",
+    "latitude": 45.4408,
+    "longitude": 12.3155
+  },
+  {
+    "displayName": "Bucharest",
+    "cityName": "Bucharest",
+    "countryName": "Romania",
+    "timeZoneIdentifier": "Europe/Bucharest",
+    "latitude": 44.4268,
+    "longitude": 26.1025
+  },
+  {
+    "displayName": "Sofia",
+    "cityName": "Sofia",
+    "countryName": "Bulgaria",
+    "timeZoneIdentifier": "Europe/Sofia",
+    "latitude": 42.6977,
+    "longitude": 23.3219
+  },
+  {
+    "displayName": "Belgrade",
+    "cityName": "Belgrade",
+    "countryName": "Serbia",
+    "timeZoneIdentifier": "Europe/Belgrade",
+    "latitude": 44.7866,
+    "longitude": 20.4489
+  },
+  {
+    "displayName": "Zagreb",
+    "cityName": "Zagreb",
+    "countryName": "Croatia",
+    "timeZoneIdentifier": "Europe/Zagreb",
+    "latitude": 45.815,
+    "longitude": 15.9819
+  },
+  {
+    "displayName": "Ljubljana",
+    "cityName": "Ljubljana",
+    "countryName": "Slovenia",
+    "timeZoneIdentifier": "Europe/Ljubljana",
+    "latitude": 46.0569,
+    "longitude": 14.5058
+  },
+  {
+    "displayName": "Sarajevo",
+    "cityName": "Sarajevo",
+    "countryName": "Bosnia and Herzegovina",
+    "timeZoneIdentifier": "Europe/Sarajevo",
+    "latitude": 43.8563,
+    "longitude": 18.4131
+  },
+  {
+    "displayName": "Skopje",
+    "cityName": "Skopje",
+    "countryName": "North Macedonia",
+    "timeZoneIdentifier": "Europe/Skopje",
+    "latitude": 41.9973,
+    "longitude": 21.428
+  },
+  {
+    "displayName": "Tirana",
+    "cityName": "Tirana",
+    "countryName": "Albania",
+    "timeZoneIdentifier": "Europe/Tirane",
+    "latitude": 41.3275,
+    "longitude": 19.8187
+  },
+  {
+    "displayName": "Valletta",
+    "cityName": "Valletta",
+    "countryName": "Malta",
+    "timeZoneIdentifier": "Europe/Malta",
+    "latitude": 35.8989,
+    "longitude": 14.5146
+  },
+  {
+    "displayName": "Pristina",
+    "cityName": "Pristina",
+    "countryName": "Kosovo",
+    "timeZoneIdentifier": "Europe/Belgrade",
+    "latitude": 42.6629,
+    "longitude": 21.1655
+  },
+  {
+    "displayName": "Minsk",
+    "cityName": "Minsk",
+    "countryName": "Belarus",
+    "timeZoneIdentifier": "Europe/Minsk",
+    "latitude": 53.9006,
+    "longitude": 27.559
+  },
+  {
+    "displayName": "Kyiv",
+    "cityName": "Kyiv",
+    "countryName": "Ukraine",
+    "timeZoneIdentifier": "Europe/Kyiv",
+    "latitude": 50.4501,
+    "longitude": 30.5234
+  },
+  {
+    "displayName": "Odessa",
+    "cityName": "Odesa",
+    "countryName": "Ukraine",
+    "timeZoneIdentifier": "Europe/Kyiv",
+    "latitude": 46.4825,
+    "longitude": 30.7233
+  },
+  {
+    "displayName": "Lviv",
+    "cityName": "Lviv",
+    "countryName": "Ukraine",
+    "timeZoneIdentifier": "Europe/Kyiv",
+    "latitude": 49.8397,
+    "longitude": 24.0297
+  },
+  {
+    "displayName": "Chisinau",
+    "cityName": "Chisinau",
+    "countryName": "Moldova",
+    "timeZoneIdentifier": "Europe/Chisinau",
+    "latitude": 47.0105,
+    "longitude": 28.8638
+  },
+  {
+    "displayName": "Daegu",
+    "cityName": "Daegu",
+    "countryName": "South Korea",
+    "timeZoneIdentifier": "Asia/Seoul",
+    "latitude": 35.8714,
+    "longitude": 128.6014
+  },
+  {
+    "displayName": "Daejeon",
+    "cityName": "Daejeon",
+    "countryName": "South Korea",
+    "timeZoneIdentifier": "Asia/Seoul",
+    "latitude": 36.3504,
+    "longitude": 127.3845
+  },
+  {
+    "displayName": "Gwangju",
+    "cityName": "Gwangju",
+    "countryName": "South Korea",
+    "timeZoneIdentifier": "Asia/Seoul",
+    "latitude": 35.1595,
+    "longitude": 126.8526
+  },
+  {
+    "displayName": "Ulsan",
+    "cityName": "Ulsan",
+    "countryName": "South Korea",
+    "timeZoneIdentifier": "Asia/Seoul",
+    "latitude": 35.5384,
+    "longitude": 129.3114
+  },
+  {
+    "displayName": "Suwon",
+    "cityName": "Suwon",
+    "countryName": "South Korea",
+    "timeZoneIdentifier": "Asia/Seoul",
+    "latitude": 37.2636,
+    "longitude": 127.0286
+  },
+  {
+    "displayName": "Yokohama",
+    "cityName": "Yokohama",
+    "countryName": "Japan",
+    "timeZoneIdentifier": "Asia/Tokyo",
+    "latitude": 35.4437,
+    "longitude": 139.638
+  },
+  {
+    "displayName": "Nagoya",
+    "cityName": "Nagoya",
+    "countryName": "Japan",
+    "timeZoneIdentifier": "Asia/Tokyo",
+    "latitude": 35.1815,
+    "longitude": 136.9066
+  },
+  {
+    "displayName": "Kobe",
+    "cityName": "Kobe",
+    "countryName": "Japan",
+    "timeZoneIdentifier": "Asia/Tokyo",
+    "latitude": 34.6901,
+    "longitude": 135.1955
+  },
+  {
+    "displayName": "Hiroshima",
+    "cityName": "Hiroshima",
+    "countryName": "Japan",
+    "timeZoneIdentifier": "Asia/Tokyo",
+    "latitude": 34.3853,
+    "longitude": 132.4553
+  },
+  {
+    "displayName": "Naha",
+    "cityName": "Naha",
+    "countryName": "Japan",
+    "timeZoneIdentifier": "Asia/Tokyo",
+    "latitude": 26.2124,
+    "longitude": 127.6792
+  },
+  {
+    "displayName": "Tianjin",
+    "cityName": "Tianjin",
+    "countryName": "China",
+    "timeZoneIdentifier": "Asia/Shanghai",
+    "latitude": 39.3434,
+    "longitude": 117.3616
+  },
+  {
+    "displayName": "Wuhan",
+    "cityName": "Wuhan",
+    "countryName": "China",
+    "timeZoneIdentifier": "Asia/Shanghai",
+    "latitude": 30.5928,
+    "longitude": 114.3055
+  },
+  {
+    "displayName": "Xi'an",
+    "cityName": "Xi'an",
+    "countryName": "China",
+    "timeZoneIdentifier": "Asia/Shanghai",
+    "latitude": 34.3416,
+    "longitude": 108.9398
+  },
+  {
+    "displayName": "Nanjing",
+    "cityName": "Nanjing",
+    "countryName": "China",
+    "timeZoneIdentifier": "Asia/Shanghai",
+    "latitude": 32.0603,
+    "longitude": 118.7969
+  },
+  {
+    "displayName": "Hangzhou",
+    "cityName": "Hangzhou",
+    "countryName": "China",
+    "timeZoneIdentifier": "Asia/Shanghai",
+    "latitude": 30.2741,
+    "longitude": 120.1551
+  },
+  {
+    "displayName": "Suzhou",
+    "cityName": "Suzhou",
+    "countryName": "China",
+    "timeZoneIdentifier": "Asia/Shanghai",
+    "latitude": 31.2989,
+    "longitude": 120.5853
+  },
+  {
+    "displayName": "Qingdao",
+    "cityName": "Qingdao",
+    "countryName": "China",
+    "timeZoneIdentifier": "Asia/Shanghai",
+    "latitude": 36.0671,
+    "longitude": 120.3826
+  },
+  {
+    "displayName": "Dalian",
+    "cityName": "Dalian",
+    "countryName": "China",
+    "timeZoneIdentifier": "Asia/Shanghai",
+    "latitude": 38.914,
+    "longitude": 121.6147
+  },
+  {
+    "displayName": "Xiamen",
+    "cityName": "Xiamen",
+    "countryName": "China",
+    "timeZoneIdentifier": "Asia/Shanghai",
+    "latitude": 24.4798,
+    "longitude": 118.0894
+  },
+  {
+    "displayName": "Chongqing",
+    "cityName": "Chongqing",
+    "countryName": "China",
+    "timeZoneIdentifier": "Asia/Shanghai",
+    "latitude": 29.4316,
+    "longitude": 106.9123
+  },
+  {
+    "displayName": "Kunming",
+    "cityName": "Kunming",
+    "countryName": "China",
+    "timeZoneIdentifier": "Asia/Shanghai",
+    "latitude": 25.0389,
+    "longitude": 102.7183
+  },
+  {
+    "displayName": "Harbin",
+    "cityName": "Harbin",
+    "countryName": "China",
+    "timeZoneIdentifier": "Asia/Shanghai",
+    "latitude": 45.8038,
+    "longitude": 126.5349
+  },
+  {
+    "displayName": "Macau",
+    "cityName": "Macau",
+    "countryName": "Macau",
+    "timeZoneIdentifier": "Asia/Macau",
+    "latitude": 22.1987,
+    "longitude": 113.5439
+  },
+  {
+    "displayName": "Phuket",
+    "cityName": "Phuket",
+    "countryName": "Thailand",
+    "timeZoneIdentifier": "Asia/Bangkok",
+    "latitude": 7.8804,
+    "longitude": 98.3923
+  },
+  {
+    "displayName": "Pattaya",
+    "cityName": "Pattaya",
+    "countryName": "Thailand",
+    "timeZoneIdentifier": "Asia/Bangkok",
+    "latitude": 12.9236,
+    "longitude": 100.8825
+  },
+  {
+    "displayName": "Da Nang",
+    "cityName": "Da Nang",
+    "countryName": "Vietnam",
+    "timeZoneIdentifier": "Asia/Ho_Chi_Minh",
+    "latitude": 16.0544,
+    "longitude": 108.2022
+  },
+  {
+    "displayName": "Phnom Penh",
+    "cityName": "Phnom Penh",
+    "countryName": "Cambodia",
+    "timeZoneIdentifier": "Asia/Phnom_Penh",
+    "latitude": 11.5564,
+    "longitude": 104.9282
+  },
+  {
+    "displayName": "Siem Reap",
+    "cityName": "Siem Reap",
+    "countryName": "Cambodia",
+    "timeZoneIdentifier": "Asia/Phnom_Penh",
+    "latitude": 13.3671,
+    "longitude": 103.8448
+  },
+  {
+    "displayName": "Vientiane",
+    "cityName": "Vientiane",
+    "countryName": "Laos",
+    "timeZoneIdentifier": "Asia/Vientiane",
+    "latitude": 17.9757,
+    "longitude": 102.6331
+  },
+  {
+    "displayName": "Yangon",
+    "cityName": "Yangon",
+    "countryName": "Myanmar",
+    "timeZoneIdentifier": "Asia/Yangon",
+    "latitude": 16.8409,
+    "longitude": 96.1735
+  },
+  {
+    "displayName": "Mandalay",
+    "cityName": "Mandalay",
+    "countryName": "Myanmar",
+    "timeZoneIdentifier": "Asia/Yangon",
+    "latitude": 21.9588,
+    "longitude": 96.0891
+  },
+  {
+    "displayName": "Bandung",
+    "cityName": "Bandung",
+    "countryName": "Indonesia",
+    "timeZoneIdentifier": "Asia/Jakarta",
+    "latitude": -6.9175,
+    "longitude": 107.6191
+  },
+  {
+    "displayName": "Surabaya",
+    "cityName": "Surabaya",
+    "countryName": "Indonesia",
+    "timeZoneIdentifier": "Asia/Jakarta",
+    "latitude": -7.2575,
+    "longitude": 112.7521
+  },
+  {
+    "displayName": "Yogyakarta",
+    "cityName": "Yogyakarta",
+    "countryName": "Indonesia",
+    "timeZoneIdentifier": "Asia/Jakarta",
+    "latitude": -7.7956,
+    "longitude": 110.3695
+  },
+  {
+    "displayName": "Medan",
+    "cityName": "Medan",
+    "countryName": "Indonesia",
+    "timeZoneIdentifier": "Asia/Jakarta",
+    "latitude": 3.5952,
+    "longitude": 98.6722
+  },
+  {
+    "displayName": "Makassar",
+    "cityName": "Makassar",
+    "countryName": "Indonesia",
+    "timeZoneIdentifier": "Asia/Makassar",
+    "latitude": -5.1477,
+    "longitude": 119.4327
+  },
+  {
+    "displayName": "Cebu",
+    "cityName": "Cebu City",
+    "countryName": "Philippines",
+    "timeZoneIdentifier": "Asia/Manila",
+    "latitude": 10.3157,
+    "longitude": 123.8854
+  },
+  {
+    "displayName": "Davao",
+    "cityName": "Davao City",
+    "countryName": "Philippines",
+    "timeZoneIdentifier": "Asia/Manila",
+    "latitude": 7.1907,
+    "longitude": 125.4553
+  },
+  {
+    "displayName": "Penang",
+    "cityName": "George Town",
+    "countryName": "Malaysia",
+    "timeZoneIdentifier": "Asia/Kuala_Lumpur",
+    "latitude": 5.4141,
+    "longitude": 100.3288
+  },
+  {
+    "displayName": "Johor Bahru",
+    "cityName": "Johor Bahru",
+    "countryName": "Malaysia",
+    "timeZoneIdentifier": "Asia/Kuala_Lumpur",
+    "latitude": 1.4927,
+    "longitude": 103.7414
+  },
+  {
+    "displayName": "Bandar Seri Begawan",
+    "cityName": "Bandar Seri Begawan",
+    "countryName": "Brunei",
+    "timeZoneIdentifier": "Asia/Brunei",
+    "latitude": 4.9031,
+    "longitude": 114.9398
+  },
+  {
+    "displayName": "Dili",
+    "cityName": "Dili",
+    "countryName": "Timor-Leste",
+    "timeZoneIdentifier": "Asia/Dili",
+    "latitude": -8.5569,
+    "longitude": 125.5603
+  },
+  {
+    "displayName": "Ulaanbaatar",
+    "cityName": "Ulaanbaatar",
+    "countryName": "Mongolia",
+    "timeZoneIdentifier": "Asia/Ulaanbaatar",
+    "latitude": 47.8864,
+    "longitude": 106.9057
+  },
+  {
+    "displayName": "Tehran",
+    "cityName": "Tehran",
+    "countryName": "Iran",
+    "timeZoneIdentifier": "Asia/Tehran",
+    "latitude": 35.6892,
+    "longitude": 51.389
+  },
+  {
+    "displayName": "Isfahan",
+    "cityName": "Isfahan",
+    "countryName": "Iran",
+    "timeZoneIdentifier": "Asia/Tehran",
+    "latitude": 32.6539,
+    "longitude": 51.666
+  },
+  {
+    "displayName": "Shiraz",
+    "cityName": "Shiraz",
+    "countryName": "Iran",
+    "timeZoneIdentifier": "Asia/Tehran",
+    "latitude": 29.5918,
+    "longitude": 52.5837
+  },
+  {
+    "displayName": "Baghdad",
+    "cityName": "Baghdad",
+    "countryName": "Iraq",
+    "timeZoneIdentifier": "Asia/Baghdad",
+    "latitude": 33.3152,
+    "longitude": 44.3661
+  },
+  {
+    "displayName": "Erbil",
+    "cityName": "Erbil",
+    "countryName": "Iraq",
+    "timeZoneIdentifier": "Asia/Baghdad",
+    "latitude": 36.1911,
+    "longitude": 44.0094
+  },
+  {
+    "displayName": "Amman",
+    "cityName": "Amman",
+    "countryName": "Jordan",
+    "timeZoneIdentifier": "Asia/Amman",
+    "latitude": 31.9539,
+    "longitude": 35.9106
+  },
+  {
+    "displayName": "Beirut",
+    "cityName": "Beirut",
+    "countryName": "Lebanon",
+    "timeZoneIdentifier": "Asia/Beirut",
+    "latitude": 33.8938,
+    "longitude": 35.5018
+  },
+  {
+    "displayName": "Damascus",
+    "cityName": "Damascus",
+    "countryName": "Syria",
+    "timeZoneIdentifier": "Asia/Damascus",
+    "latitude": 33.5138,
+    "longitude": 36.2765
+  },
+  {
+    "displayName": "Manama",
+    "cityName": "Manama",
+    "countryName": "Bahrain",
+    "timeZoneIdentifier": "Asia/Bahrain",
+    "latitude": 26.2235,
+    "longitude": 50.5876
+  },
+  {
+    "displayName": "Sana'a",
+    "cityName": "Sana'a",
+    "countryName": "Yemen",
+    "timeZoneIdentifier": "Asia/Aden",
+    "latitude": 15.3694,
+    "longitude": 44.191
+  },
+  {
+    "displayName": "Aden",
+    "cityName": "Aden",
+    "countryName": "Yemen",
+    "timeZoneIdentifier": "Asia/Aden",
+    "latitude": 12.7855,
+    "longitude": 45.0187
+  },
+  {
+    "displayName": "Mecca",
+    "cityName": "Mecca",
+    "countryName": "Saudi Arabia",
+    "timeZoneIdentifier": "Asia/Riyadh",
+    "latitude": 21.3891,
+    "longitude": 39.8579
+  },
+  {
+    "displayName": "Medina",
+    "cityName": "Medina",
+    "countryName": "Saudi Arabia",
+    "timeZoneIdentifier": "Asia/Riyadh",
+    "latitude": 24.5247,
+    "longitude": 39.5692
+  },
+  {
+    "displayName": "Ashgabat",
+    "cityName": "Ashgabat",
+    "countryName": "Turkmenistan",
+    "timeZoneIdentifier": "Asia/Ashgabat",
+    "latitude": 37.9601,
+    "longitude": 58.3261
+  },
+  {
+    "displayName": "Bishkek",
+    "cityName": "Bishkek",
+    "countryName": "Kyrgyzstan",
+    "timeZoneIdentifier": "Asia/Bishkek",
+    "latitude": 42.8746,
+    "longitude": 74.5698
+  },
+  {
+    "displayName": "Dushanbe",
+    "cityName": "Dushanbe",
+    "countryName": "Tajikistan",
+    "timeZoneIdentifier": "Asia/Dushanbe",
+    "latitude": 38.5598,
+    "longitude": 68.787
+  },
+  {
+    "displayName": "Astana",
+    "cityName": "Astana",
+    "countryName": "Kazakhstan",
+    "timeZoneIdentifier": "Asia/Almaty",
+    "latitude": 51.1694,
+    "longitude": 71.4491
+  },
+  {
+    "displayName": "Aktau",
+    "cityName": "Aktau",
+    "countryName": "Kazakhstan",
+    "timeZoneIdentifier": "Asia/Aqtau",
+    "latitude": 43.6532,
+    "longitude": 51.1975
+  },
+  {
+    "displayName": "Gold Coast",
+    "cityName": "Gold Coast",
+    "countryName": "Australia",
+    "timeZoneIdentifier": "Australia/Brisbane",
+    "latitude": -28.0167,
+    "longitude": 153.4
+  },
+  {
+    "displayName": "Cairns",
+    "cityName": "Cairns",
+    "countryName": "Australia",
+    "timeZoneIdentifier": "Australia/Brisbane",
+    "latitude": -16.9186,
+    "longitude": 145.7781
+  },
+  {
+    "displayName": "Newcastle",
+    "cityName": "Newcastle",
+    "countryName": "Australia",
+    "timeZoneIdentifier": "Australia/Sydney",
+    "latitude": -32.9283,
+    "longitude": 151.7817
+  },
+  {
+    "displayName": "Geelong",
+    "cityName": "Geelong",
+    "countryName": "Australia",
+    "timeZoneIdentifier": "Australia/Melbourne",
+    "latitude": -38.1499,
+    "longitude": 144.3617
+  },
+  {
+    "displayName": "Townsville",
+    "cityName": "Townsville",
+    "countryName": "Australia",
+    "timeZoneIdentifier": "Australia/Brisbane",
+    "latitude": -19.2589,
+    "longitude": 146.8169
+  },
+  {
+    "displayName": "Launceston",
+    "cityName": "Launceston",
+    "countryName": "Australia",
+    "timeZoneIdentifier": "Australia/Hobart",
+    "latitude": -41.4332,
+    "longitude": 147.1441
+  },
+  {
+    "displayName": "Dunedin",
+    "cityName": "Dunedin",
+    "countryName": "New Zealand",
+    "timeZoneIdentifier": "Pacific/Auckland",
+    "latitude": -45.8788,
+    "longitude": 170.5028
+  },
+  {
+    "displayName": "Queenstown",
+    "cityName": "Queenstown",
+    "countryName": "New Zealand",
+    "timeZoneIdentifier": "Pacific/Auckland",
+    "latitude": -45.0312,
+    "longitude": 168.6626
+  },
+  {
+    "displayName": "Suva",
+    "cityName": "Suva",
+    "countryName": "Fiji",
+    "timeZoneIdentifier": "Pacific/Fiji",
+    "latitude": -18.1248,
+    "longitude": 178.4501
+  },
+  {
+    "displayName": "Apia",
+    "cityName": "Apia",
+    "countryName": "Samoa",
+    "timeZoneIdentifier": "Pacific/Apia",
+    "latitude": -13.8507,
+    "longitude": -171.7514
+  },
+  {
+    "displayName": "Pago Pago",
+    "cityName": "Pago Pago",
+    "countryName": "American Samoa",
+    "timeZoneIdentifier": "Pacific/Pago_Pago",
+    "latitude": -14.2756,
+    "longitude": -170.702
+  },
+  {
+    "displayName": "Papeete",
+    "cityName": "Papeete",
+    "countryName": "French Polynesia",
+    "timeZoneIdentifier": "Pacific/Tahiti",
+    "latitude": -17.5516,
+    "longitude": -149.5585
+  },
+  {
+    "displayName": "Noumea",
+    "cityName": "Noumea",
+    "countryName": "New Caledonia",
+    "timeZoneIdentifier": "Pacific/Noumea",
+    "latitude": -22.2558,
+    "longitude": 166.4505
+  },
+  {
+    "displayName": "Port Moresby",
+    "cityName": "Port Moresby",
+    "countryName": "Papua New Guinea",
+    "timeZoneIdentifier": "Pacific/Port_Moresby",
+    "latitude": -9.4438,
+    "longitude": 147.1803
+  },
+  {
+    "displayName": "Nuku'alofa",
+    "cityName": "Nuku'alofa",
+    "countryName": "Tonga",
+    "timeZoneIdentifier": "Pacific/Tongatapu",
+    "latitude": -21.1394,
+    "longitude": -175.2049
+  },
+  {
+    "displayName": "Majuro",
+    "cityName": "Majuro",
+    "countryName": "Marshall Islands",
+    "timeZoneIdentifier": "Pacific/Majuro",
+    "latitude": 7.1164,
+    "longitude": 171.1858
+  },
+  {
+    "displayName": "Sacramento",
+    "cityName": "Sacramento",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Los_Angeles",
+    "latitude": 38.5816,
+    "longitude": -121.4944
+  },
+  {
+    "displayName": "Fresno",
+    "cityName": "Fresno",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Los_Angeles",
+    "latitude": 36.7378,
+    "longitude": -119.7871
+  },
+  {
+    "displayName": "Reno",
+    "cityName": "Reno",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Los_Angeles",
+    "latitude": 39.5296,
+    "longitude": -119.8138
+  },
+  {
+    "displayName": "Tucson",
+    "cityName": "Tucson",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Phoenix",
+    "latitude": 32.2226,
+    "longitude": -110.9747
+  },
+  {
+    "displayName": "Albuquerque",
+    "cityName": "Albuquerque",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Denver",
+    "latitude": 35.0844,
+    "longitude": -106.6504
+  },
+  {
+    "displayName": "Santa Fe",
+    "cityName": "Santa Fe",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Denver",
+    "latitude": 35.687,
+    "longitude": -105.9378
+  },
+  {
+    "displayName": "Colorado Springs",
+    "cityName": "Colorado Springs",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Denver",
+    "latitude": 38.8339,
+    "longitude": -104.8214
+  },
+  {
+    "displayName": "Omaha",
+    "cityName": "Omaha",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 41.2565,
+    "longitude": -95.9345
+  },
+  {
+    "displayName": "Des Moines",
+    "cityName": "Des Moines",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 41.5868,
+    "longitude": -93.625
+  },
+  {
+    "displayName": "Milwaukee",
+    "cityName": "Milwaukee",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 43.0389,
+    "longitude": -87.9065
+  },
+  {
+    "displayName": "Madison",
+    "cityName": "Madison",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 43.0731,
+    "longitude": -89.4012
+  },
+  {
+    "displayName": "Memphis",
+    "cityName": "Memphis",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 35.1495,
+    "longitude": -90.049
+  },
+  {
+    "displayName": "Birmingham",
+    "cityName": "Birmingham",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 33.5186,
+    "longitude": -86.8104
+  },
+  {
+    "displayName": "Little Rock",
+    "cityName": "Little Rock",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 34.7465,
+    "longitude": -92.2896
+  },
+  {
+    "displayName": "Oklahoma City",
+    "cityName": "Oklahoma City",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 35.4676,
+    "longitude": -97.5164
+  },
+  {
+    "displayName": "Tulsa",
+    "cityName": "Tulsa",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Chicago",
+    "latitude": 36.154,
+    "longitude": -95.9928
+  },
+  {
+    "displayName": "Cincinnati",
+    "cityName": "Cincinnati",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 39.1031,
+    "longitude": -84.512
+  },
+  {
+    "displayName": "Louisville",
+    "cityName": "Louisville",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Kentucky/Louisville",
+    "latitude": 38.2527,
+    "longitude": -85.7585
+  },
+  {
+    "displayName": "Raleigh",
+    "cityName": "Raleigh",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 35.7796,
+    "longitude": -78.6382
+  },
+  {
+    "displayName": "Richmond",
+    "cityName": "Richmond",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 37.5407,
+    "longitude": -77.436
+  },
+  {
+    "displayName": "Baltimore",
+    "cityName": "Baltimore",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 39.2904,
+    "longitude": -76.6122
+  },
+  {
+    "displayName": "Providence",
+    "cityName": "Providence",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 41.824,
+    "longitude": -71.4128
+  },
+  {
+    "displayName": "Hartford",
+    "cityName": "Hartford",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 41.7658,
+    "longitude": -72.6734
+  },
+  {
+    "displayName": "Buffalo",
+    "cityName": "Buffalo",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 42.8864,
+    "longitude": -78.8784
+  },
+  {
+    "displayName": "Rochester",
+    "cityName": "Rochester",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 43.1566,
+    "longitude": -77.6088
+  },
+  {
+    "displayName": "Tampa",
+    "cityName": "Tampa",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 27.9506,
+    "longitude": -82.4572
+  },
+  {
+    "displayName": "Jacksonville",
+    "cityName": "Jacksonville",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 30.3322,
+    "longitude": -81.6557
+  },
+  {
+    "displayName": "Fort Lauderdale",
+    "cityName": "Fort Lauderdale",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 26.1224,
+    "longitude": -80.1373
+  },
+  {
+    "displayName": "Charleston",
+    "cityName": "Charleston",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 32.7765,
+    "longitude": -79.9311
+  },
+  {
+    "displayName": "Savannah",
+    "cityName": "Savannah",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 32.0809,
+    "longitude": -81.0912
+  },
+  {
+    "displayName": "Newark",
+    "cityName": "Newark",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 40.7357,
+    "longitude": -74.1724
+  },
+  {
+    "displayName": "Albany",
+    "cityName": "Albany",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 42.6526,
+    "longitude": -73.7562
+  },
+  {
+    "displayName": "Burlington",
+    "cityName": "Burlington",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 44.4759,
+    "longitude": -73.2121
+  },
+  {
+    "displayName": "Portland, Maine",
+    "cityName": "Portland",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/New_York",
+    "latitude": 43.6591,
+    "longitude": -70.2568
+  },
+  {
+    "displayName": "Juneau",
+    "cityName": "Juneau",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Juneau",
+    "latitude": 58.3019,
+    "longitude": -134.4197
+  },
+  {
+    "displayName": "Fairbanks",
+    "cityName": "Fairbanks",
+    "countryName": "United States",
+    "timeZoneIdentifier": "America/Anchorage",
+    "latitude": 64.8378,
+    "longitude": -147.7164
+  },
+  {
+    "displayName": "Whitehorse",
+    "cityName": "Whitehorse",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Whitehorse",
+    "latitude": 60.7212,
+    "longitude": -135.0568
+  },
+  {
+    "displayName": "Yellowknife",
+    "cityName": "Yellowknife",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Yellowknife",
+    "latitude": 62.454,
+    "longitude": -114.3718
+  },
+  {
+    "displayName": "Victoria",
+    "cityName": "Victoria",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Vancouver",
+    "latitude": 48.4284,
+    "longitude": -123.3656
+  },
+  {
+    "displayName": "Kelowna",
+    "cityName": "Kelowna",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Vancouver",
+    "latitude": 49.8879,
+    "longitude": -119.496
+  },
+  {
+    "displayName": "Hamilton",
+    "cityName": "Hamilton",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Toronto",
+    "latitude": 43.2557,
+    "longitude": -79.8711
+  },
+  {
+    "displayName": "Mississauga",
+    "cityName": "Mississauga",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Toronto",
+    "latitude": 43.589,
+    "longitude": -79.6441
+  },
+  {
+    "displayName": "Windsor",
+    "cityName": "Windsor",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Toronto",
+    "latitude": 42.3149,
+    "longitude": -83.0364
+  },
+  {
+    "displayName": "London, Ontario",
+    "cityName": "London",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Toronto",
+    "latitude": 42.9849,
+    "longitude": -81.2453
+  },
+  {
+    "displayName": "Fredericton",
+    "cityName": "Fredericton",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Moncton",
+    "latitude": 45.9636,
+    "longitude": -66.6431
+  },
+  {
+    "displayName": "Moncton",
+    "cityName": "Moncton",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Moncton",
+    "latitude": 46.0878,
+    "longitude": -64.7782
+  },
+  {
+    "displayName": "Charlottetown",
+    "cityName": "Charlottetown",
+    "countryName": "Canada",
+    "timeZoneIdentifier": "America/Halifax",
+    "latitude": 46.2382,
+    "longitude": -63.1311
+  },
+  {
+    "displayName": "Tijuana",
+    "cityName": "Tijuana",
+    "countryName": "Mexico",
+    "timeZoneIdentifier": "America/Tijuana",
+    "latitude": 32.5149,
+    "longitude": -117.0382
+  },
+  {
+    "displayName": "Cancún",
+    "cityName": "Cancun",
+    "countryName": "Mexico",
+    "timeZoneIdentifier": "America/Cancun",
+    "latitude": 21.1619,
+    "longitude": -86.8515
+  },
+  {
+    "displayName": "Mérida",
+    "cityName": "Merida",
+    "countryName": "Mexico",
+    "timeZoneIdentifier": "America/Merida",
+    "latitude": 20.9674,
+    "longitude": -89.5926
+  },
+  {
+    "displayName": "Puebla",
+    "cityName": "Puebla",
+    "countryName": "Mexico",
+    "timeZoneIdentifier": "America/Mexico_City",
+    "latitude": 19.0414,
+    "longitude": -98.2063
+  },
+  {
+    "displayName": "Querétaro",
+    "cityName": "Queretaro",
+    "countryName": "Mexico",
+    "timeZoneIdentifier": "America/Mexico_City",
+    "latitude": 20.5888,
+    "longitude": -100.3899
+  },
+  {
+    "displayName": "San José",
+    "cityName": "San Jose",
+    "countryName": "Costa Rica",
+    "timeZoneIdentifier": "America/Costa_Rica",
+    "latitude": 9.9281,
+    "longitude": -84.0907
+  },
+  {
+    "displayName": "Managua",
+    "cityName": "Managua",
+    "countryName": "Nicaragua",
+    "timeZoneIdentifier": "America/Managua",
+    "latitude": 12.114,
+    "longitude": -86.2362
+  },
+  {
+    "displayName": "Tegucigalpa",
+    "cityName": "Tegucigalpa",
+    "countryName": "Honduras",
+    "timeZoneIdentifier": "America/Tegucigalpa",
+    "latitude": 14.0723,
+    "longitude": -87.1921
+  },
+  {
+    "displayName": "San Salvador",
+    "cityName": "San Salvador",
+    "countryName": "El Salvador",
+    "timeZoneIdentifier": "America/El_Salvador",
+    "latitude": 13.6929,
+    "longitude": -89.2182
+  },
+  {
+    "displayName": "Guatemala City",
+    "cityName": "Guatemala City",
+    "countryName": "Guatemala",
+    "timeZoneIdentifier": "America/Guatemala",
+    "latitude": 14.6349,
+    "longitude": -90.5069
+  },
+  {
+    "displayName": "Belize City",
+    "cityName": "Belize City",
+    "countryName": "Belize",
+    "timeZoneIdentifier": "America/Belize",
+    "latitude": 17.5046,
+    "longitude": -88.1962
+  },
+  {
+    "displayName": "Kingston",
+    "cityName": "Kingston",
+    "countryName": "Jamaica",
+    "timeZoneIdentifier": "America/Jamaica",
+    "latitude": 17.9712,
+    "longitude": -76.7936
+  },
+  {
+    "displayName": "Port of Spain",
+    "cityName": "Port of Spain",
+    "countryName": "Trinidad and Tobago",
+    "timeZoneIdentifier": "America/Port_of_Spain",
+    "latitude": 10.6549,
+    "longitude": -61.5019
+  },
+  {
+    "displayName": "Bridgetown",
+    "cityName": "Bridgetown",
+    "countryName": "Barbados",
+    "timeZoneIdentifier": "America/Barbados",
+    "latitude": 13.0975,
+    "longitude": -59.6167
+  },
+  {
+    "displayName": "Caracas",
+    "cityName": "Caracas",
+    "countryName": "Venezuela",
+    "timeZoneIdentifier": "America/Caracas",
+    "latitude": 10.4806,
+    "longitude": -66.9036
+  },
+  {
+    "displayName": "Maracaibo",
+    "cityName": "Maracaibo",
+    "countryName": "Venezuela",
+    "timeZoneIdentifier": "America/Caracas",
+    "latitude": 10.6545,
+    "longitude": -71.653
+  },
+  {
+    "displayName": "Cali",
+    "cityName": "Cali",
+    "countryName": "Colombia",
+    "timeZoneIdentifier": "America/Bogota",
+    "latitude": 3.4516,
+    "longitude": -76.532
+  },
+  {
+    "displayName": "Cartagena",
+    "cityName": "Cartagena",
+    "countryName": "Colombia",
+    "timeZoneIdentifier": "America/Bogota",
+    "latitude": 10.391,
+    "longitude": -75.4794
+  },
+  {
+    "displayName": "Barranquilla",
+    "cityName": "Barranquilla",
+    "countryName": "Colombia",
+    "timeZoneIdentifier": "America/Bogota",
+    "latitude": 10.9685,
+    "longitude": -74.7813
+  },
+  {
+    "displayName": "Cusco",
+    "cityName": "Cusco",
+    "countryName": "Peru",
+    "timeZoneIdentifier": "America/Lima",
+    "latitude": -13.5319,
+    "longitude": -71.9675
+  },
+  {
+    "displayName": "Arequipa",
+    "cityName": "Arequipa",
+    "countryName": "Peru",
+    "timeZoneIdentifier": "America/Lima",
+    "latitude": -16.409,
+    "longitude": -71.5375
+  },
+  {
+    "displayName": "Rosario",
+    "cityName": "Rosario",
+    "countryName": "Argentina",
+    "timeZoneIdentifier": "America/Argentina/Cordoba",
+    "latitude": -32.9442,
+    "longitude": -60.6505
+  },
+  {
+    "displayName": "Mar del Plata",
+    "cityName": "Mar del Plata",
+    "countryName": "Argentina",
+    "timeZoneIdentifier": "America/Argentina/Buenos_Aires",
+    "latitude": -38.0055,
+    "longitude": -57.5426
+  },
+  {
+    "displayName": "Ushuaia",
+    "cityName": "Ushuaia",
+    "countryName": "Argentina",
+    "timeZoneIdentifier": "America/Argentina/Ushuaia",
+    "latitude": -54.8019,
+    "longitude": -68.303
+  },
+  {
+    "displayName": "Punta Arenas",
+    "cityName": "Punta Arenas",
+    "countryName": "Chile",
+    "timeZoneIdentifier": "America/Punta_Arenas",
+    "latitude": -53.1638,
+    "longitude": -70.9171
+  },
+  {
+    "displayName": "Antofagasta",
+    "cityName": "Antofagasta",
+    "countryName": "Chile",
+    "timeZoneIdentifier": "America/Santiago",
+    "latitude": -23.6509,
+    "longitude": -70.3975
+  },
+  {
+    "displayName": "Concepción",
+    "cityName": "Concepcion",
+    "countryName": "Chile",
+    "timeZoneIdentifier": "America/Santiago",
+    "latitude": -36.8201,
+    "longitude": -73.0444
+  },
+  {
+    "displayName": "Iquique",
+    "cityName": "Iquique",
+    "countryName": "Chile",
+    "timeZoneIdentifier": "America/Santiago",
+    "latitude": -20.2307,
+    "longitude": -70.1357
+  },
+  {
+    "displayName": "Easter Island",
+    "cityName": "Hanga Roa",
+    "countryName": "Chile",
+    "timeZoneIdentifier": "Pacific/Easter",
+    "latitude": -27.1127,
+    "longitude": -109.3497
+  },
+  {
+    "displayName": "Santa Cruz de la Sierra",
+    "cityName": "Santa Cruz de la Sierra",
+    "countryName": "Bolivia",
+    "timeZoneIdentifier": "America/La_Paz",
+    "latitude": -17.8146,
+    "longitude": -63.1561
+  },
+  {
+    "displayName": "Sucre",
+    "cityName": "Sucre",
+    "countryName": "Bolivia",
+    "timeZoneIdentifier": "America/La_Paz",
+    "latitude": -19.0196,
+    "longitude": -65.2619
+  },
+  {
+    "displayName": "Manaus",
+    "cityName": "Manaus",
+    "countryName": "Brazil",
+    "timeZoneIdentifier": "America/Manaus",
+    "latitude": -3.119,
+    "longitude": -60.0217
+  },
+  {
+    "displayName": "Belém",
+    "cityName": "Belem",
+    "countryName": "Brazil",
+    "timeZoneIdentifier": "America/Belem",
+    "latitude": -1.4558,
+    "longitude": -48.4902
+  },
+  {
+    "displayName": "Curitiba",
+    "cityName": "Curitiba",
+    "countryName": "Brazil",
+    "timeZoneIdentifier": "America/Sao_Paulo",
+    "latitude": -25.4284,
+    "longitude": -49.2733
+  },
+  {
+    "displayName": "Porto Alegre",
+    "cityName": "Porto Alegre",
+    "countryName": "Brazil",
+    "timeZoneIdentifier": "America/Sao_Paulo",
+    "latitude": -30.0346,
+    "longitude": -51.2177
+  },
+  {
+    "displayName": "Belo Horizonte",
+    "cityName": "Belo Horizonte",
+    "countryName": "Brazil",
+    "timeZoneIdentifier": "America/Sao_Paulo",
+    "latitude": -19.9167,
+    "longitude": -43.9345
+  },
+  {
+    "displayName": "Goiânia",
+    "cityName": "Goiania",
+    "countryName": "Brazil",
+    "timeZoneIdentifier": "America/Sao_Paulo",
+    "latitude": -16.6869,
+    "longitude": -49.2648
+  },
+  {
+    "displayName": "Natal",
+    "cityName": "Natal",
+    "countryName": "Brazil",
+    "timeZoneIdentifier": "America/Fortaleza",
+    "latitude": -5.7793,
+    "longitude": -35.2009
+  },
+  {
+    "displayName": "Florianópolis",
+    "cityName": "Florianopolis",
+    "countryName": "Brazil",
+    "timeZoneIdentifier": "America/Sao_Paulo",
+    "latitude": -27.5949,
+    "longitude": -48.5482
+  },
+  {
+    "displayName": "Pretoria",
+    "cityName": "Pretoria",
+    "countryName": "South Africa",
+    "timeZoneIdentifier": "Africa/Johannesburg",
+    "latitude": -25.7479,
+    "longitude": 28.2293
+  },
+  {
+    "displayName": "Port Elizabeth",
+    "cityName": "Gqeberha",
+    "countryName": "South Africa",
+    "timeZoneIdentifier": "Africa/Johannesburg",
+    "latitude": -33.9608,
+    "longitude": 25.6022
+  },
+  {
+    "displayName": "Maputo",
+    "cityName": "Maputo",
+    "countryName": "Mozambique",
+    "timeZoneIdentifier": "Africa/Maputo",
+    "latitude": -25.9692,
+    "longitude": 32.5732
+  },
+  {
+    "displayName": "Harare",
+    "cityName": "Harare",
+    "countryName": "Zimbabwe",
+    "timeZoneIdentifier": "Africa/Harare",
+    "latitude": -17.8252,
+    "longitude": 31.0335
+  },
+  {
+    "displayName": "Lusaka",
+    "cityName": "Lusaka",
+    "countryName": "Zambia",
+    "timeZoneIdentifier": "Africa/Lusaka",
+    "latitude": -15.3875,
+    "longitude": 28.3228
+  },
+  {
+    "displayName": "Gaborone",
+    "cityName": "Gaborone",
+    "countryName": "Botswana",
+    "timeZoneIdentifier": "Africa/Gaborone",
+    "latitude": -24.6282,
+    "longitude": 25.9231
+  },
+  {
+    "displayName": "Windhoek",
+    "cityName": "Windhoek",
+    "countryName": "Namibia",
+    "timeZoneIdentifier": "Africa/Windhoek",
+    "latitude": -22.5609,
+    "longitude": 17.0658
+  },
+  {
+    "displayName": "Luanda",
+    "cityName": "Luanda",
+    "countryName": "Angola",
+    "timeZoneIdentifier": "Africa/Luanda",
+    "latitude": -8.839,
+    "longitude": 13.2894
+  },
+  {
+    "displayName": "Kinshasa",
+    "cityName": "Kinshasa",
+    "countryName": "Democratic Republic of the Congo",
+    "timeZoneIdentifier": "Africa/Kinshasa",
+    "latitude": -4.4419,
+    "longitude": 15.2663
+  },
+  {
+    "displayName": "Brazzaville",
+    "cityName": "Brazzaville",
+    "countryName": "Republic of the Congo",
+    "timeZoneIdentifier": "Africa/Brazzaville",
+    "latitude": -4.2634,
+    "longitude": 15.2429
+  },
+  {
+    "displayName": "Yaoundé",
+    "cityName": "Yaounde",
+    "countryName": "Cameroon",
+    "timeZoneIdentifier": "Africa/Douala",
+    "latitude": 3.848,
+    "longitude": 11.5021
+  },
+  {
+    "displayName": "Douala",
+    "cityName": "Douala",
+    "countryName": "Cameroon",
+    "timeZoneIdentifier": "Africa/Douala",
+    "latitude": 4.0511,
+    "longitude": 9.7679
+  },
+  {
+    "displayName": "Libreville",
+    "cityName": "Libreville",
+    "countryName": "Gabon",
+    "timeZoneIdentifier": "Africa/Libreville",
+    "latitude": 0.4162,
+    "longitude": 9.4673
+  },
+  {
+    "displayName": "Abidjan",
+    "cityName": "Abidjan",
+    "countryName": "Côte d'Ivoire",
+    "timeZoneIdentifier": "Africa/Abidjan",
+    "latitude": 5.36,
+    "longitude": -4.0083
+  },
+  {
+    "displayName": "Bamako",
+    "cityName": "Bamako",
+    "countryName": "Mali",
+    "timeZoneIdentifier": "Africa/Bamako",
+    "latitude": 12.6392,
+    "longitude": -8.0029
+  },
+  {
+    "displayName": "Ouagadougou",
+    "cityName": "Ouagadougou",
+    "countryName": "Burkina Faso",
+    "timeZoneIdentifier": "Africa/Ouagadougou",
+    "latitude": 12.3714,
+    "longitude": -1.5197
+  },
+  {
+    "displayName": "Niamey",
+    "cityName": "Niamey",
+    "countryName": "Niger",
+    "timeZoneIdentifier": "Africa/Niamey",
+    "latitude": 13.5116,
+    "longitude": 2.1254
+  },
+  {
+    "displayName": "Conakry",
+    "cityName": "Conakry",
+    "countryName": "Guinea",
+    "timeZoneIdentifier": "Africa/Conakry",
+    "latitude": 9.6412,
+    "longitude": -13.5784
+  },
+  {
+    "displayName": "Freetown",
+    "cityName": "Freetown",
+    "countryName": "Sierra Leone",
+    "timeZoneIdentifier": "Africa/Freetown",
+    "latitude": 8.4657,
+    "longitude": -13.2317
+  },
+  {
+    "displayName": "Monrovia",
+    "cityName": "Monrovia",
+    "countryName": "Liberia",
+    "timeZoneIdentifier": "Africa/Monrovia",
+    "latitude": 6.3156,
+    "longitude": -10.8074
+  },
+  {
+    "displayName": "Banjul",
+    "cityName": "Banjul",
+    "countryName": "Gambia",
+    "timeZoneIdentifier": "Africa/Banjul",
+    "latitude": 13.4549,
+    "longitude": -16.579
+  },
+  {
+    "displayName": "Nouakchott",
+    "cityName": "Nouakchott",
+    "countryName": "Mauritania",
+    "timeZoneIdentifier": "Africa/Nouakchott",
+    "latitude": 18.0735,
+    "longitude": -15.9582
+  },
+  {
+    "displayName": "Tripoli",
+    "cityName": "Tripoli",
+    "countryName": "Libya",
+    "timeZoneIdentifier": "Africa/Tripoli",
+    "latitude": 32.8872,
+    "longitude": 13.1913
+  },
+  {
+    "displayName": "Khartoum",
+    "cityName": "Khartoum",
+    "countryName": "Sudan",
+    "timeZoneIdentifier": "Africa/Khartoum",
+    "latitude": 15.5007,
+    "longitude": 32.5599
+  },
+  {
+    "displayName": "Juba",
+    "cityName": "Juba",
+    "countryName": "South Sudan",
+    "timeZoneIdentifier": "Africa/Juba",
+    "latitude": 4.8594,
+    "longitude": 31.5713
+  },
+  {
+    "displayName": "Asmara",
+    "cityName": "Asmara",
+    "countryName": "Eritrea",
+    "timeZoneIdentifier": "Africa/Asmara",
+    "latitude": 15.3229,
+    "longitude": 38.9251
+  },
+  {
+    "displayName": "Djibouti",
+    "cityName": "Djibouti",
+    "countryName": "Djibouti",
+    "timeZoneIdentifier": "Africa/Djibouti",
+    "latitude": 11.8251,
+    "longitude": 42.5903
+  },
+  {
+    "displayName": "Mogadishu",
+    "cityName": "Mogadishu",
+    "countryName": "Somalia",
+    "timeZoneIdentifier": "Africa/Mogadishu",
+    "latitude": 2.0469,
+    "longitude": 45.3182
+  },
+  {
+    "displayName": "Zanzibar",
+    "cityName": "Zanzibar City",
+    "countryName": "Tanzania",
+    "timeZoneIdentifier": "Africa/Dar_es_Salaam",
+    "latitude": -6.1659,
+    "longitude": 39.2026
+  },
+  {
+    "displayName": "Antananarivo",
+    "cityName": "Antananarivo",
+    "countryName": "Madagascar",
+    "timeZoneIdentifier": "Indian/Antananarivo",
+    "latitude": -18.8792,
+    "longitude": 47.5079
+  },
+  {
+    "displayName": "Port Louis",
+    "cityName": "Port Louis",
+    "countryName": "Mauritius",
+    "timeZoneIdentifier": "Indian/Mauritius",
+    "latitude": -20.1609,
+    "longitude": 57.5012
+  },
+  {
+    "displayName": "Victoria, Seychelles",
+    "cityName": "Victoria",
+    "countryName": "Seychelles",
+    "timeZoneIdentifier": "Indian/Mahe",
+    "latitude": -4.6191,
+    "longitude": 55.4513
+  },
+  {
+    "displayName": "Galway",
+    "cityName": "Galway",
+    "countryName": "Ireland",
+    "timeZoneIdentifier": "Europe/Dublin",
+    "latitude": 53.2707,
+    "longitude": -9.0568
+  },
+  {
+    "displayName": "Cork",
+    "cityName": "Cork",
+    "countryName": "Ireland",
+    "timeZoneIdentifier": "Europe/Dublin",
+    "latitude": 51.8985,
+    "longitude": -8.4756
+  },
+  {
+    "displayName": "Glasgow",
+    "cityName": "Glasgow",
+    "countryName": "United Kingdom",
+    "timeZoneIdentifier": "Europe/London",
+    "latitude": 55.8642,
+    "longitude": -4.2518
+  },
+  {
+    "displayName": "Liverpool",
+    "cityName": "Liverpool",
+    "countryName": "United Kingdom",
+    "timeZoneIdentifier": "Europe/London",
+    "latitude": 53.4084,
+    "longitude": -2.9916
+  },
+  {
+    "displayName": "Birmingham, UK",
+    "cityName": "Birmingham",
+    "countryName": "United Kingdom",
+    "timeZoneIdentifier": "Europe/London",
+    "latitude": 52.4862,
+    "longitude": -1.8904
+  },
+  {
+    "displayName": "Leeds",
+    "cityName": "Leeds",
+    "countryName": "United Kingdom",
+    "timeZoneIdentifier": "Europe/London",
+    "latitude": 53.8008,
+    "longitude": -1.5491
+  },
+  {
+    "displayName": "Cardiff",
+    "cityName": "Cardiff",
+    "countryName": "United Kingdom",
+    "timeZoneIdentifier": "Europe/London",
+    "latitude": 51.4816,
+    "longitude": -3.1791
+  },
+  {
+    "displayName": "Nice",
+    "cityName": "Nice",
+    "countryName": "France",
+    "timeZoneIdentifier": "Europe/Paris",
+    "latitude": 43.7102,
+    "longitude": 7.262
+  },
+  {
+    "displayName": "Toulouse",
+    "cityName": "Toulouse",
+    "countryName": "France",
+    "timeZoneIdentifier": "Europe/Paris",
+    "latitude": 43.6047,
+    "longitude": 1.4442
+  },
+  {
+    "displayName": "Bordeaux",
+    "cityName": "Bordeaux",
+    "countryName": "France",
+    "timeZoneIdentifier": "Europe/Paris",
+    "latitude": 44.8378,
+    "longitude": -0.5792
+  },
+  {
+    "displayName": "Nantes",
+    "cityName": "Nantes",
+    "countryName": "France",
+    "timeZoneIdentifier": "Europe/Paris",
+    "latitude": 47.2184,
+    "longitude": -1.5536
+  },
+  {
+    "displayName": "Lille",
+    "cityName": "Lille",
+    "countryName": "France",
+    "timeZoneIdentifier": "Europe/Paris",
+    "latitude": 50.6292,
+    "longitude": 3.0573
+  },
+  {
+    "displayName": "Strasbourg",
+    "cityName": "Strasbourg",
+    "countryName": "France",
+    "timeZoneIdentifier": "Europe/Paris",
+    "latitude": 48.5734,
+    "longitude": 7.7521
+  },
+  {
+    "displayName": "The Hague",
+    "cityName": "The Hague",
+    "countryName": "Netherlands",
+    "timeZoneIdentifier": "Europe/Amsterdam",
+    "latitude": 52.0705,
+    "longitude": 4.3007
+  },
+  {
+    "displayName": "Utrecht",
+    "cityName": "Utrecht",
+    "countryName": "Netherlands",
+    "timeZoneIdentifier": "Europe/Amsterdam",
+    "latitude": 52.0907,
+    "longitude": 5.1214
+  },
+  {
+    "displayName": "Eindhoven",
+    "cityName": "Eindhoven",
+    "countryName": "Netherlands",
+    "timeZoneIdentifier": "Europe/Amsterdam",
+    "latitude": 51.4416,
+    "longitude": 5.4697
+  },
+  {
+    "displayName": "Antwerp",
+    "cityName": "Antwerp",
+    "countryName": "Belgium",
+    "timeZoneIdentifier": "Europe/Brussels",
+    "latitude": 51.2194,
+    "longitude": 4.4025
+  },
+  {
+    "displayName": "Ghent",
+    "cityName": "Ghent",
+    "countryName": "Belgium",
+    "timeZoneIdentifier": "Europe/Brussels",
+    "latitude": 51.0543,
+    "longitude": 3.7174
+  },
+  {
+    "displayName": "Cologne",
+    "cityName": "Cologne",
+    "countryName": "Germany",
+    "timeZoneIdentifier": "Europe/Berlin",
+    "latitude": 50.9375,
+    "longitude": 6.9603
+  },
+  {
+    "displayName": "Düsseldorf",
+    "cityName": "Dusseldorf",
+    "countryName": "Germany",
+    "timeZoneIdentifier": "Europe/Berlin",
+    "latitude": 51.2277,
+    "longitude": 6.7735
+  },
+  {
+    "displayName": "Stuttgart",
+    "cityName": "Stuttgart",
+    "countryName": "Germany",
+    "timeZoneIdentifier": "Europe/Berlin",
+    "latitude": 48.7758,
+    "longitude": 9.1829
+  },
+  {
+    "displayName": "Dresden",
+    "cityName": "Dresden",
+    "countryName": "Germany",
+    "timeZoneIdentifier": "Europe/Berlin",
+    "latitude": 51.0504,
+    "longitude": 13.7373
+  },
+  {
+    "displayName": "Leipzig",
+    "cityName": "Leipzig",
+    "countryName": "Germany",
+    "timeZoneIdentifier": "Europe/Berlin",
+    "latitude": 51.3397,
+    "longitude": 12.3731
+  },
+  {
+    "displayName": "Nuremberg",
+    "cityName": "Nuremberg",
+    "countryName": "Germany",
+    "timeZoneIdentifier": "Europe/Berlin",
+    "latitude": 49.4521,
+    "longitude": 11.0767
+  },
+  {
+    "displayName": "Bremen",
+    "cityName": "Bremen",
+    "countryName": "Germany",
+    "timeZoneIdentifier": "Europe/Berlin",
+    "latitude": 53.0793,
+    "longitude": 8.8017
+  },
+  {
+    "displayName": "Basel",
+    "cityName": "Basel",
+    "countryName": "Switzerland",
+    "timeZoneIdentifier": "Europe/Zurich",
+    "latitude": 47.5596,
+    "longitude": 7.5886
+  },
+  {
+    "displayName": "Bern",
+    "cityName": "Bern",
+    "countryName": "Switzerland",
+    "timeZoneIdentifier": "Europe/Zurich",
+    "latitude": 46.948,
+    "longitude": 7.4474
+  },
+  {
+    "displayName": "Salzburg",
+    "cityName": "Salzburg",
+    "countryName": "Austria",
+    "timeZoneIdentifier": "Europe/Vienna",
+    "latitude": 47.8095,
+    "longitude": 13.055
+  },
+  {
+    "displayName": "Graz",
+    "cityName": "Graz",
+    "countryName": "Austria",
+    "timeZoneIdentifier": "Europe/Vienna",
+    "latitude": 47.0707,
+    "longitude": 15.4395
+  },
+  {
+    "displayName": "Brno",
+    "cityName": "Brno",
+    "countryName": "Czech Republic",
+    "timeZoneIdentifier": "Europe/Prague",
+    "latitude": 49.1951,
+    "longitude": 16.6068
+  },
+  {
+    "displayName": "Gdansk",
+    "cityName": "Gdansk",
+    "countryName": "Poland",
+    "timeZoneIdentifier": "Europe/Warsaw",
+    "latitude": 54.352,
+    "longitude": 18.6466
+  },
+  {
+    "displayName": "Wroclaw",
+    "cityName": "Wroclaw",
+    "countryName": "Poland",
+    "timeZoneIdentifier": "Europe/Warsaw",
+    "latitude": 51.1079,
+    "longitude": 17.0385
+  },
+  {
+    "displayName": "Poznan",
+    "cityName": "Poznan",
+    "countryName": "Poland",
+    "timeZoneIdentifier": "Europe/Warsaw",
+    "latitude": 52.4064,
+    "longitude": 16.9252
+  },
+  {
+    "displayName": "Debrecen",
+    "cityName": "Debrecen",
+    "countryName": "Hungary",
+    "timeZoneIdentifier": "Europe/Budapest",
+    "latitude": 47.5316,
+    "longitude": 21.6273
+  },
+  {
+    "displayName": "Aarhus",
+    "cityName": "Aarhus",
+    "countryName": "Denmark",
+    "timeZoneIdentifier": "Europe/Copenhagen",
+    "latitude": 56.1629,
+    "longitude": 10.2039
+  },
+  {
+    "displayName": "Gothenburg",
+    "cityName": "Gothenburg",
+    "countryName": "Sweden",
+    "timeZoneIdentifier": "Europe/Stockholm",
+    "latitude": 57.7089,
+    "longitude": 11.9746
+  },
+  {
+    "displayName": "Malmö",
+    "cityName": "Malmo",
+    "countryName": "Sweden",
+    "timeZoneIdentifier": "Europe/Stockholm",
+    "latitude": 55.605,
+    "longitude": 13.0038
+  },
+  {
+    "displayName": "Bergen",
+    "cityName": "Bergen",
+    "countryName": "Norway",
+    "timeZoneIdentifier": "Europe/Oslo",
+    "latitude": 60.3913,
+    "longitude": 5.3221
+  },
+  {
+    "displayName": "Trondheim",
+    "cityName": "Trondheim",
+    "countryName": "Norway",
+    "timeZoneIdentifier": "Europe/Oslo",
+    "latitude": 63.4305,
+    "longitude": 10.3951
+  },
+  {
+    "displayName": "Tampere",
+    "cityName": "Tampere",
+    "countryName": "Finland",
+    "timeZoneIdentifier": "Europe/Helsinki",
+    "latitude": 61.4978,
+    "longitude": 23.761
+  },
+  {
+    "displayName": "Turku",
+    "cityName": "Turku",
+    "countryName": "Finland",
+    "timeZoneIdentifier": "Europe/Helsinki",
+    "latitude": 60.4518,
+    "longitude": 22.2666
+  },
+  {
+    "displayName": "Palma de Mallorca",
+    "cityName": "Palma",
+    "countryName": "Spain",
+    "timeZoneIdentifier": "Europe/Madrid",
+    "latitude": 39.5696,
+    "longitude": 2.6502
+  },
+  {
+    "displayName": "Seville",
+    "cityName": "Seville",
+    "countryName": "Spain",
+    "timeZoneIdentifier": "Europe/Madrid",
+    "latitude": 37.3891,
+    "longitude": -5.9845
+  },
+  {
+    "displayName": "Malaga",
+    "cityName": "Malaga",
+    "countryName": "Spain",
+    "timeZoneIdentifier": "Europe/Madrid",
+    "latitude": 36.7213,
+    "longitude": -4.4214
+  },
+  {
+    "displayName": "Bilbao",
+    "cityName": "Bilbao",
+    "countryName": "Spain",
+    "timeZoneIdentifier": "Europe/Madrid",
+    "latitude": 43.263,
+    "longitude": -2.935
+  },
+  {
+    "displayName": "Granada",
+    "cityName": "Granada",
+    "countryName": "Spain",
+    "timeZoneIdentifier": "Europe/Madrid",
+    "latitude": 37.1773,
+    "longitude": -3.5986
+  },
+  {
+    "displayName": "Zaragoza",
+    "cityName": "Zaragoza",
+    "countryName": "Spain",
+    "timeZoneIdentifier": "Europe/Madrid",
+    "latitude": 41.6488,
+    "longitude": -0.8891
+  },
+  {
+    "displayName": "Coimbra",
+    "cityName": "Coimbra",
+    "countryName": "Portugal",
+    "timeZoneIdentifier": "Europe/Lisbon",
+    "latitude": 40.2033,
+    "longitude": -8.4103
+  },
+  {
+    "displayName": "Faro",
+    "cityName": "Faro",
+    "countryName": "Portugal",
+    "timeZoneIdentifier": "Europe/Lisbon",
+    "latitude": 37.0194,
+    "longitude": -7.9304
+  },
+  {
+    "displayName": "Florence",
+    "cityName": "Florence",
+    "countryName": "Italy",
+    "timeZoneIdentifier": "Europe/Rome",
+    "latitude": 43.7696,
+    "longitude": 11.2558
+  },
+  {
+    "displayName": "Bologna",
+    "cityName": "Bologna",
+    "countryName": "Italy",
+    "timeZoneIdentifier": "Europe/Rome",
+    "latitude": 44.4949,
+    "longitude": 11.3426
+  },
+  {
+    "displayName": "Turin",
+    "cityName": "Turin",
+    "countryName": "Italy",
+    "timeZoneIdentifier": "Europe/Rome",
+    "latitude": 45.0703,
+    "longitude": 7.6869
+  },
+  {
+    "displayName": "Genoa",
+    "cityName": "Genoa",
+    "countryName": "Italy",
+    "timeZoneIdentifier": "Europe/Rome",
+    "latitude": 44.4056,
+    "longitude": 8.9463
+  },
+  {
+    "displayName": "Palermo",
+    "cityName": "Palermo",
+    "countryName": "Italy",
+    "timeZoneIdentifier": "Europe/Rome",
+    "latitude": 38.1157,
+    "longitude": 13.3615
+  },
+  {
+    "displayName": "Catania",
+    "cityName": "Catania",
+    "countryName": "Italy",
+    "timeZoneIdentifier": "Europe/Rome",
+    "latitude": 37.5079,
+    "longitude": 15.083
+  },
+  {
+    "displayName": "Thessaloniki",
+    "cityName": "Thessaloniki",
+    "countryName": "Greece",
+    "timeZoneIdentifier": "Europe/Athens",
+    "latitude": 40.6401,
+    "longitude": 22.9444
+  },
+  {
+    "displayName": "Heraklion",
+    "cityName": "Heraklion",
+    "countryName": "Greece",
+    "timeZoneIdentifier": "Europe/Athens",
+    "latitude": 35.3387,
+    "longitude": 25.1442
+  },
+  {
+    "displayName": "Limassol",
+    "cityName": "Limassol",
+    "countryName": "Cyprus",
+    "timeZoneIdentifier": "Asia/Nicosia",
+    "latitude": 34.7071,
+    "longitude": 33.0226
+  },
+  {
+    "displayName": "Varna",
+    "cityName": "Varna",
+    "countryName": "Bulgaria",
+    "timeZoneIdentifier": "Europe/Sofia",
+    "latitude": 43.2141,
+    "longitude": 27.9147
+  },
+  {
+    "displayName": "Cluj-Napoca",
+    "cityName": "Cluj-Napoca",
+    "countryName": "Romania",
+    "timeZoneIdentifier": "Europe/Bucharest",
+    "latitude": 46.7712,
+    "longitude": 23.6236
+  },
+  {
+    "displayName": "Timisoara",
+    "cityName": "Timisoara",
+    "countryName": "Romania",
+    "timeZoneIdentifier": "Europe/Bucharest",
+    "latitude": 45.7489,
+    "longitude": 21.2087
+  },
+  {
+    "displayName": "Split",
+    "cityName": "Split",
+    "countryName": "Croatia",
+    "timeZoneIdentifier": "Europe/Zagreb",
+    "latitude": 43.5081,
+    "longitude": 16.4402
+  },
+  {
+    "displayName": "Dubrovnik",
+    "cityName": "Dubrovnik",
+    "countryName": "Croatia",
+    "timeZoneIdentifier": "Europe/Zagreb",
+    "latitude": 42.6507,
+    "longitude": 18.0944
+  },
+  {
+    "displayName": "Podgorica",
+    "cityName": "Podgorica",
+    "countryName": "Montenegro",
+    "timeZoneIdentifier": "Europe/Podgorica",
+    "latitude": 42.4304,
+    "longitude": 19.2594
+  },
+  {
+    "displayName": "Tórshavn",
+    "cityName": "Torshavn",
+    "countryName": "Faroe Islands",
+    "timeZoneIdentifier": "Atlantic/Faroe",
+    "latitude": 62.0079,
+    "longitude": -6.79
+  },
+  {
+    "displayName": "Nuuk",
+    "cityName": "Nuuk",
+    "countryName": "Greenland",
+    "timeZoneIdentifier": "America/Nuuk",
+    "latitude": 64.1814,
+    "longitude": -51.6941
+  },
+  {
+    "displayName": "Tromsø",
+    "cityName": "Tromso",
+    "countryName": "Norway",
+    "timeZoneIdentifier": "Europe/Oslo",
+    "latitude": 69.6492,
+    "longitude": 18.9553
+  },
+  {
+    "displayName": "Murmansk",
+    "cityName": "Murmansk",
+    "countryName": "Russia",
+    "timeZoneIdentifier": "Europe/Moscow",
+    "latitude": 68.9585,
+    "longitude": 33.0827
+  },
+  {
+    "displayName": "Kaliningrad",
+    "cityName": "Kaliningrad",
+    "countryName": "Russia",
+    "timeZoneIdentifier": "Europe/Kaliningrad",
+    "latitude": 54.7104,
+    "longitude": 20.4522
+  },
+  {
+    "displayName": "Kazan",
+    "cityName": "Kazan",
+    "countryName": "Russia",
+    "timeZoneIdentifier": "Europe/Moscow",
+    "latitude": 55.7887,
+    "longitude": 49.1221
+  },
+  {
+    "displayName": "Yekaterinburg",
+    "cityName": "Yekaterinburg",
+    "countryName": "Russia",
+    "timeZoneIdentifier": "Asia/Yekaterinburg",
+    "latitude": 56.8389,
+    "longitude": 60.6057
+  },
+  {
+    "displayName": "Omsk",
+    "cityName": "Omsk",
+    "countryName": "Russia",
+    "timeZoneIdentifier": "Asia/Omsk",
+    "latitude": 54.9885,
+    "longitude": 73.3242
+  },
+  {
+    "displayName": "Krasnoyarsk",
+    "cityName": "Krasnoyarsk",
+    "countryName": "Russia",
+    "timeZoneIdentifier": "Asia/Krasnoyarsk",
+    "latitude": 56.0153,
+    "longitude": 92.8932
+  },
+  {
+    "displayName": "Irkutsk",
+    "cityName": "Irkutsk",
+    "countryName": "Russia",
+    "timeZoneIdentifier": "Asia/Irkutsk",
+    "latitude": 52.2864,
+    "longitude": 104.2807
+  },
+  {
+    "displayName": "Yakutsk",
+    "cityName": "Yakutsk",
+    "countryName": "Russia",
+    "timeZoneIdentifier": "Asia/Yakutsk",
+    "latitude": 62.0355,
+    "longitude": 129.6755
+  },
+  {
+    "displayName": "Vladivostok",
+    "cityName": "Vladivostok",
+    "countryName": "Russia",
+    "timeZoneIdentifier": "Asia/Vladivostok",
+    "latitude": 43.1155,
+    "longitude": 131.8855
+  },
+  {
+    "displayName": "Khabarovsk",
+    "cityName": "Khabarovsk",
+    "countryName": "Russia",
+    "timeZoneIdentifier": "Asia/Vladivostok",
+    "latitude": 48.4802,
+    "longitude": 135.0719
+  },
+  {
+    "displayName": "Petropavlovsk-Kamchatsky",
+    "cityName": "Petropavlovsk-Kamchatsky",
+    "countryName": "Russia",
+    "timeZoneIdentifier": "Asia/Kamchatka",
+    "latitude": 53.037,
+    "longitude": 158.6559
+  },
+  {
+    "displayName": "Pune",
+    "cityName": "Pune",
+    "countryName": "India",
+    "timeZoneIdentifier": "Asia/Kolkata",
+    "latitude": 18.5204,
+    "longitude": 73.8567
+  },
+  {
+    "displayName": "Ahmedabad",
+    "cityName": "Ahmedabad",
+    "countryName": "India",
+    "timeZoneIdentifier": "Asia/Kolkata",
+    "latitude": 23.0225,
+    "longitude": 72.5714
+  },
+  {
+    "displayName": "Jaipur",
+    "cityName": "Jaipur",
+    "countryName": "India",
+    "timeZoneIdentifier": "Asia/Kolkata",
+    "latitude": 26.9124,
+    "longitude": 75.7873
+  },
+  {
+    "displayName": "Surat",
+    "cityName": "Surat",
+    "countryName": "India",
+    "timeZoneIdentifier": "Asia/Kolkata",
+    "latitude": 21.1702,
+    "longitude": 72.8311
+  },
+  {
+    "displayName": "Lucknow",
+    "cityName": "Lucknow",
+    "countryName": "India",
+    "timeZoneIdentifier": "Asia/Kolkata",
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "displayName": "Kochi",
+    "cityName": "Kochi",
+    "countryName": "India",
+    "timeZoneIdentifier": "Asia/Kolkata",
+    "latitude": 9.9312,
+    "longitude": 76.2673
+  },
+  {
+    "displayName": "Goa",
+    "cityName": "Panaji",
+    "countryName": "India",
+    "timeZoneIdentifier": "Asia/Kolkata",
+    "latitude": 15.4909,
+    "longitude": 73.8278
+  },
+  {
+    "displayName": "Varanasi",
+    "cityName": "Varanasi",
+    "countryName": "India",
+    "timeZoneIdentifier": "Asia/Kolkata",
+    "latitude": 25.3176,
+    "longitude": 82.9739
+  }
+]
